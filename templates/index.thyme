@@ -1,0 +1,45 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="header.thyme::head"/>
+	<body onload="prettyPrint()">
+	<div id="wrap">
+		<div th:replace="menu.thyme::menu"/>
+		<div class="container">
+
+			<div class="jumbotron">
+              <h1>DFW Groovy &amp; Grails User Group</h1>
+
+              <p>Focused on expanding the breadth and depth of Groovy and Grails development skills with our members who live and work in
+              the DFW area.</p>
+
+              <p>Meetings are on the 1<sup>st</sup> Wednesday of every month (social &amp; food at 6:30pm, meeting content at 7:00pm) at the
+
+              <a href="https://www.google.com/maps/place/Improving+Enterprises,+Inc./@32.977034,-96.826953,17z/data=!3m1!4b1!4m2!3m1!1s0x864c214428760391:0x93e3cd120aeda77a" target="_blank"
+                data-toggle="tooltip" data-placement="top" title="16633 Dallas Parkway #100 Addison, TX 75001">Improving Enterprises</a>
+              office on the Dallas North Tollway.</p>
+            </div>
+
+            <div class="tooltip top" role="tooltip">
+              <div class="tooltip-arrow"></div>
+              <div class="tooltip-inner">
+                16633 Dallas Parkway #100<br/>
+                Addison, TX 75001
+              </div>
+            </div>
+
+			<div th:each="post : ${published_posts}">
+				<a th:href='${post.uri}' href='href'><h1 th:text='${post.title}'>title</h1></a>
+				<p th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</p>
+				<p th:utext='${post.body}'>body</p>
+			</div>
+				
+			<hr />
+			
+			<p>Older posts are available in the <a th:href='${config.archive_file}' href='href'>archive</a>.</p>
+		</div>
+	</div>
+	
+	<div th:replace="footer.thyme::footer"></div>
+    </body>
+</html>
