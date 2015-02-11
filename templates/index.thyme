@@ -28,6 +28,8 @@
               </div>
             </div>
 
+            <h2>Recent Meetings</h2>
+            
 			<div th:each="post : ${published_posts}">
 				<a th:href='${post.uri}' href='href'><h1 th:text='${post.title}'>title</h1></a>
 				<p th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</p>
@@ -36,7 +38,7 @@
 				
 			<hr />
 			
-			<p>Older posts are available in the <a th:href='${config.archive_file}' href='href'>archive</a>.</p>
+			<p>Older meeting summaries are available in the <a th:href='${config.archive_file}' href='href'>archive</a>.</p>
 		</div>
 	</div>
 	
