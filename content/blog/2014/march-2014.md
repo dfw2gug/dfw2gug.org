@@ -1,4 +1,6 @@
-title=Paul Woods - Introduction to Groovy
+title=Introduction to Groovy
+presenter=Paul Woods
+abstract=Discussion of the main language differences between Java and Groovy.
 date=2014-03-05
 type=post
 tags=blog

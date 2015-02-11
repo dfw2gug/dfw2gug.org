@@ -1,4 +1,6 @@
-title=Erik Weibust - The Holy Grails: Hands-On Workshop - Part 2
+title=The Holy Grails: Hands-On Workshop - Part 2
+presenter=Erik Weibust
+abstract=A high-level intro to Grails. By the time we are done you will have built custom domain objects, controllers, GSPs, services and tag libraries.
 date=2011-09-07
 type=post
 tags=blog
@@ -17,6 +19,6 @@ This hands-on workshop will be spread over two months, August and September.
 
 ## Bio
 
-Erik Weibust is a Sr Architect at Credera. Erik is very active in the DFW technology user group scene. Erik helps lead JavaMUG, a DFW Java focused user group. Erik also helps lead the DFW2GUG, a Groovy and Grails focused user group in Dallas. Erik was also the founder of the Spring Dallas UG. A group focused on promoting and educating Dallas Java developers on the Spring Framework.
+Erik Weibust is a Sr Architect at [Credera](http://credera.com). Erik is very active in the DFW technology user group scene. Erik helps lead [JavaMUG](http://javamug.org), a DFW Java focused user group. Erik also helps lead the [DFW2GUG](http://dfw2gug.org), a Groovy and Grails focused user group in Dallas. Erik was also the founder of the [Spring Dallas UG](http://springdallasug.org). A group focused on promoting and educating Dallas Java developers on the Spring Framework.
 
-You can follow Erik on Twitter - @erikweibust or keep up with him on his blog - Erik's Hmm...
+You can follow Erik on Twitter - [@erikweibust](http://www.twitter.com/erikweibust) or keep up with him on his blog - [Erik's Hmm...](http://erik.weibust.net).

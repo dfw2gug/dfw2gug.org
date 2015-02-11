@@ -1,4 +1,6 @@
-title=Paul Woods - Spring Boot
+title=Spring Boot
+presenter=Paul Woods
+abstract=Creating starter projects and exploring the features of Spring Boot.
 date=2014-12-03
 type=post
 tags=blog

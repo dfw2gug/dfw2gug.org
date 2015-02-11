@@ -1,4 +1,6 @@
-title=Jack Frosch - What's New in Grails 2.3
+title=What's New in Grails 2.3
+presenter=Jack Frosch
+abstract=Discussion of the new features in the latest release of Groovy.
 date=2013-12-04
 type=post
 tags=blog
@@ -10,15 +12,16 @@ status=published
 It's amazing to at how great the Grails web application platform has become over the years. The latest round of significant improvements came with the release of Grails 2.3.0. In this talk, I will discuss these new changes and show code examples illustrating how to leverage them in your projects.
 
 Specifically, I will cover:
-The new data binding mechanism
-Server-side REST improvements
-Async support
-Encoding / escaping improvements
-Hibernate 4 support
-Controller enhancements
-Miscellaneous: Forked execution; Grails Wrapper; Dependency Management changes; scaffolding changes
-There are a lot of great enhancements, so come out to see what youâ€™ll get with Grails 2.3!
-The presentation is intended for current and aspiring Grails developers who would like to explore what's new in Grails. Basic Grails usage and concepts wonâ€™t be discussed in any detail.
+
+* The new data binding mechanism
+* Server-side REST improvements
+* Async support
+* Encoding / escaping improvements
+* Hibernate 4 support
+* Controller enhancements
+* Miscellaneous: Forked execution; Grails Wrapper; Dependency Management changes; scaffolding changes
+* There are a lot of great enhancements, so come out to see what you'll get with Grails 2.3!
+* The presentation is intended for current and aspiring Grails developers who would like to explore what's new in Grails. Basic Grails usage and concepts wonâ€™t be discussed in any detail.
 
 ## Bio
 

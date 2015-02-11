@@ -1,4 +1,6 @@
 title=Netflix Availability Open Source Stack
+presenter=George Smith
+abstract=This presentation will focus on using the Netflix Availability Open Source Stack in a Grails environment. George will produce a fully distributed, highly available, application using Grails and Hystrix for micro-services.
 date=2015-01-07
 type=post
 tags=blog

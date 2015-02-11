@@ -31,9 +31,9 @@
             <h2>Recent Meetings</h2>
             
 			<div th:each="post : ${published_posts}">
-				<a th:href='${post.uri}' href='href'><h1 th:text='${post.title}'>title</h1></a>
-				<p th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</p>
-				<p th:utext='${post.body}'>body</p>
+				<a th:href='${post.uri}' href='href'><h2 th:text='${post.title}'>title</h2></a>
+				<p><span th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</span> - <span th:text='${post.presenter}'>presenter</span></p>
+                <p th:text='${post.abstract}'>abstract</p>
 			</div>
 				
 			<hr />

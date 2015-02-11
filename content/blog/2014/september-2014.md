@@ -1,4 +1,6 @@
 title=September (No Meeting)
+presenter=None
+abstract=No meeting this month.
 date=2014-09-03
 type=post
 tags=blog

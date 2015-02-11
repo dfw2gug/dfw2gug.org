@@ -1,4 +1,6 @@
 title=Clean Code
+presenter=Video
+abstract=A pair of videos from Robert C. Martin - the first two from his "Clean Code" video series.
 date=2013-03-06
 type=post
 tags=blog

@@ -1,4 +1,6 @@
 title=Lift Off With Groovy 2.1
+presenter=Video
+abstract=Video presentation given by Groovy core committer, Guillaume Laforge, at SpringOne 2GX.
 date=2013-11-06
 type=post
 tags=blog

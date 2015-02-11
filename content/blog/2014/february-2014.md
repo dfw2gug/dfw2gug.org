@@ -1,4 +1,6 @@
 title=DFW2GUG 2014 Planning
+presenter=None
+abstract=Group planning for 2014.
 date=2014-02-05
 type=post
 tags=blog

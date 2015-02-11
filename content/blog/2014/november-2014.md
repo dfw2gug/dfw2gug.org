@@ -1,4 +1,6 @@
-title=David Clark - Conquering Database Migrations With Flyway, Gradle, Groovy, and Git
+title=Conquering Database Migrations With Flyway, Gradle, Groovy, and Git
+presenter=David Clark
+abstract=We will cover managing database migrations using simple, yet powerful tools: Flyway, Gradle, Groovy, and Git.
 date=2014-11-05
 type=post
 tags=blog

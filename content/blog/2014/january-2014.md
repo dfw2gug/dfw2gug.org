@@ -1,4 +1,6 @@
 title=January (No Meeting)
+presenter=None
+abstract=No meeting this month.
 date=2014-01-01
 type=post
 tags=blog

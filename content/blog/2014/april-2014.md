@@ -1,4 +1,6 @@
-title=David Clark - Gradle for Fun, Profit, and World Domination
+title=Gradle for Fun, Profit, and World Domination
+presenter=David Clark
+abstract=Discussing Gradle and how to integrate it into your current job.
 date=2014-04-02
 type=post
 tags=blog

@@ -1,4 +1,6 @@
-title=Bob Makowski - Replacing Struts with Grails: Project Review and Lessons Learned
+title=Replacing Struts with Grails: Project Review and Lessons Learned
+presenter=Bob Makowski
+abstract=A project and technology comparative review of a commercial grade Groovy / Grails application that replaced Struts in a .gov domain.
 date=2011-10-04
 type=post
 tags=blog

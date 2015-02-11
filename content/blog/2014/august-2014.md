@@ -1,4 +1,6 @@
 title=Groovy Puzzlers
+presenter=Video
+abstract=Watching "Groovy Puzzlers - As usual - Traps, Pitfalls and End Cases.
 date=2014-08-06
 type=post
 tags=blog

@@ -1,4 +1,6 @@
-title=Jack Frosch - Introduction to Groovy Meta-Object Protocol
+title=Introduction to Groovy Meta-Object Protocol
+presenter=Jack Frosch
+abstract=Introduction to Groovy meta-object programming while examining various techniques for meta-programming in Groovy and a deep dive into the method invocation flow.
 date=2013-10-02
 type=post
 tags=blog
