@@ -4,7 +4,7 @@
     <title>DFW2GUG</title>
     <link th:text='${config.site_host}'>link</link>
     <atom:link th:href='${config.site_host+"/feed.xml"}' href="link" rel="self" type="application/rss+xml" />
-    <description>JBake Bootstrap Template</description>
+    <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
     <pubDate th:text='${#dates.format(published_date,"EEE, d MMM yyyy HH:mm:ss Z")}'>pubdate</pubDate>
     <lastBuildDate th:text='${#dates.format(published_date,"EEE, d MMM yyyy HH:mm:ss Z")}'>lastbuilddate</lastBuildDate>
