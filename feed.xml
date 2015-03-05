@@ -1,379 +1,586 @@
+<?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DFW2GUG</title>
     <link>http://dfw2gug.org</link>
-    <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Sun, 15 Feb 2015 07:08:27 -0600</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2015 07:08:27 -0600</lastBuildDate>
+    <pubDate>Wed, 4 Mar 2015 19:42:21 -0600</pubDate>
+    <lastBuildDate>Wed, 4 Mar 2015 19:42:21 -0600</lastBuildDate>
 
+    
     <item>
-      <title>March (TBD)</title>
+      <title>April</title>
+      <link>http://dfw2gug.org/blog/2015/april-2015.html</link>
+      <pubDate>Wed, 1 Apr 2015 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2015/april-2015.html</guid>
+      <description>
+      &lt;p&gt;To be determined...&lt;/p&gt;
+	  </description>
+    </item>
+    
+    <item>
+      <title>March (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2015/march-2015.html</link>
       <pubDate>Wed, 4 Mar 2015 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2015/march-2015.html</guid>
-      <description>&amp;lt;p&amp;gt;The meeting content has not yet been determined... check back soon for more details.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;Well, dang the crazy Dallas winter weather. We are going to postpone Andrew Rubalcaba&apos;s talk on Microservices with Spring Boot and Groovy until April.&lt;/p&gt;&lt;p&gt;Andrew and I talked and rather then have people fighting the predicted freezing rain and sleet, and all that that means on the Dallas roads. Or, having people skip and miss his great talk to avoid the roads. We are just going to push this out until April. Stay safe and warm.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>February (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2015/february-2015.html</link>
       <pubDate>Wed, 4 Feb 2015 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2015/february-2015.html</guid>
-      <description>&amp;lt;p&amp;gt;We will not be meeting this month. We will see you in March.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;We will not be meeting this month. We will see you in March.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Netflix Availability Open Source Stack</title>
       <link>http://dfw2gug.org/blog/2015/january-2015.html</link>
       <pubDate>Wed, 7 Jan 2015 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2015/january-2015.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;This presentation will focus on using the Netflix Availability Open Source Stack in a Grails environment. George will produce a fully distributed, highly available, application using Grails and Hystrix for micro-services.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Though all of the services will be run locally, George will demonstrate how they can be scaled individually and load tested using the Groovy Console. He will also demonstrate the use of the Netflix Turbine dashboard for monitoring all of the different services.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Presentation and code found here&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;George Smith has been a software developer and architect for more years than he would like to count. For the past 5 years he has worked as a developer and architect for BNSF Railway. He introduced Groovy to BNSF, through the use of Spock Testing, and Gradle for building systems. Many DevOps concepts such as Continuous Integration, Binary Repositories (Artifactory), Immutable Infrastructure, and Continuous Deployment came next. Recently he introduced BNSF Railway to Grails. He has been concentrating on using a distributed micro-service architecture for his recent work.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;This presentation will focus on using the Netflix Availability Open Source Stack in a Grails environment. George will produce a fully distributed, highly available, application using Grails and Hystrix for micro-services.&lt;/p&gt;&lt;p&gt;Though all of the services will be run locally, George will demonstrate how they can be scaled individually and load tested using the Groovy Console. He will also demonstrate the use of the Netflix Turbine dashboard for monitoring all of the different services.&lt;/p&gt;&lt;p&gt;Presentation and code found here&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;George Smith has been a software developer and architect for more years than he would like to count. For the past 5 years he has worked as a developer and architect for BNSF Railway. He introduced Groovy to BNSF, through the use of Spock Testing, and Gradle for building systems. Many DevOps concepts such as Continuous Integration, Binary Repositories (Artifactory), Immutable Infrastructure, and Continuous Deployment came next. Recently he introduced BNSF Railway to Grails. He has been concentrating on using a distributed micro-service architecture for his recent work.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Spring Boot</title>
       <link>http://dfw2gug.org/blog/2014/december-2014.html</link>
       <pubDate>Wed, 3 Dec 2014 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2014/december-2014.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Spring Boot is an exciting way to start jvm based projects. We will show how to create starter projects. We&amp;#39;ll also discuss features of Spring Boot and Spring 4 that allow quicker app development.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Paul Woods is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Spring Boot is an exciting way to start jvm based projects. We will show how to create starter projects. We&apos;ll also discuss features of Spring Boot and Spring 4 that allow quicker app development.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Paul Woods is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Conquering Database Migrations With Flyway, Gradle, Groovy, and Git</title>
       <link>http://dfw2gug.org/blog/2014/november-2014.html</link>
       <pubDate>Wed, 5 Nov 2014 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2014/november-2014.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Most tools, technologies, and processes focus on improving source code, application design, application architecture, etc. What is missing in all of this is managing the creation and migration of databases. This is ironic since the database is typically much more valuable to a company than are the applications and databases almost always outlive applications designed for them. We will cover managing database migrations using simple, yet powerful tools: Flyway, Gradle, Groovy, and Git.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;David Clark is a software engineer working for ResearchNow. His current responsibilities are 1) developing tools for improving database deployment speed and accuracy and 2) Improving and simplifying data access in ResearchNow applications. Both make heavy use of Groovy. In the past he worked in Telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Most tools, technologies, and processes focus on improving source code, application design, application architecture, etc. What is missing in all of this is managing the creation and migration of databases. This is ironic since the database is typically much more valuable to a company than are the applications and databases almost always outlive applications designed for them. We will cover managing database migrations using simple, yet powerful tools: Flyway, Gradle, Groovy, and Git.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark is a software engineer working for ResearchNow. His current responsibilities are 1) developing tools for improving database deployment speed and accuracy and 2) Improving and simplifying data access in ResearchNow applications. Both make heavy use of Groovy. In the past he worked in Telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>SpringOne - 2GX Review</title>
       <link>http://dfw2gug.org/blog/2014/october-2014.html</link>
       <pubDate>Wed, 1 Oct 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/october-2014.html</guid>
-      <description>&amp;lt;p&amp;gt;A number of members from DFW2GUG attended &amp;lt;a href=&amp;quot;https://springone2gx.com/conference/santa_clara/2013/09/home&amp;quot;&amp;gt;SpringOne - 2GX&amp;lt;/a&amp;gt; a couple weeks ago (the conference took place here in Dallas). They will present their conference highlights, hot topics and generally cool stuff they saw/learned.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We will also spend some time coming up with topics for the next 9-12 months. Please help us plan next years schedule.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;A number of members from DFW2GUG attended &lt;a href=&quot;https://springone2gx.com/conference/santa_clara/2013/09/home&quot;&gt;SpringOne - 2GX&lt;/a&gt; a couple weeks ago (the conference took place here in Dallas). They will present their conference highlights, hot topics and generally cool stuff they saw/learned.&lt;/p&gt;&lt;p&gt;We will also spend some time coming up with topics for the next 9-12 months. Please help us plan next years schedule.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>September (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2014/september-2014.html</link>
       <pubDate>Wed, 3 Sep 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/september-2014.html</guid>
-      <description>&amp;lt;p&amp;gt;We are not meeting this month. Instead, come see us at Spring One 2GX 2014 the second week of September.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;We are not meeting this month. Instead, come see us at Spring One 2GX 2014 the second week of September.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Groovy Puzzlers</title>
       <link>http://dfw2gug.org/blog/2014/august-2014.html</link>
       <pubDate>Wed, 6 Aug 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/august-2014.html</guid>
-      <description>&amp;lt;p&amp;gt;This month we will be watching &amp;quot;Groovy Puzzlers - As usual - Traps, Pitfalls and End Cases,&amp;quot; a presentation given this summer at GR8Conf. It presents numerous &amp;quot;gotchas&amp;quot; with Groovy and how to avoid them. When finished you will definitely have a better understanding of the Groovy language.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;This month we will be watching &quot;Groovy Puzzlers - As usual - Traps, Pitfalls and End Cases,&quot; a presentation given this summer at GR8Conf. It presents numerous &quot;gotchas&quot; with Groovy and how to avoid them. When finished you will definitely have a better understanding of the Groovy language.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Geb in the Enterprise</title>
       <link>http://dfw2gug.org/blog/2014/july-2014.html</link>
       <pubDate>Wed, 2 Jul 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/july-2014.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Most enterprises recognize the importance of web application testing, however the necessary cost and organizational changes are simply too great to even get started. Functional testing with Geb changes this by offering enormous test coverage in just a few tests, thus enticing enterprises to at least get started with testing. We will address the specific challenges of getting started with Geb in the enterprise.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://www.linkedin.com/in/joshhamit&amp;quot;&amp;gt;Josh Hamit&amp;lt;/a&amp;gt; is a Senior Consultant at the Integration and Data Services practice of &amp;lt;a href=&amp;quot;http://credera.com&amp;quot;&amp;gt;Credera&amp;lt;/a&amp;gt;. He is passionate about Open Source Software, Video Games, and Texas BBQ.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Most enterprises recognize the importance of web application testing, however the necessary cost and organizational changes are simply too great to even get started. Functional testing with Geb changes this by offering enormous test coverage in just a few tests, thus enticing enterprises to at least get started with testing. We will address the specific challenges of getting started with Geb in the enterprise.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/joshhamit&quot;&gt;Josh Hamit&lt;/a&gt; is a Senior Consultant at the Integration and Data Services practice of &lt;a href=&quot;http://credera.com&quot;&gt;Credera&lt;/a&gt;. He is passionate about Open Source Software, Video Games, and Texas BBQ.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Introduction to Grails, Part II</title>
       <link>http://dfw2gug.org/blog/2014/june-2014.html</link>
       <pubDate>Wed, 4 Jun 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/june-2014.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;In May, Jack Frosch presented Part of of his two-part talk introducing Grails. In that talk, he covered the basics of getting started with Grails, dynamic and static scaffolding, and domain class and GORM CRUD basics. For good measure, he also included a few Groovy basics for those coming to Grails without any groovy background.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Well, those were just the basic basics of Grails.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In Part II of of the talk on June 4th, we&amp;#39;ll explore many more Grails basics. Specifically, we&amp;#39;ll cover the following topics:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;More on domain classes&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Validation constraints&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Modeling associations&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;More GORM&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Custom queries beyond the way cool dynamic finders&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;ORM confiruration with static mappings&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Managing fetching and locking strategies&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;More on Controllers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Chaining action method calls&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Redirects&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;REST support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Async support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;More View capabilities&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;View tags&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Resource plugin&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Leveraging jQuery&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Using Ajax&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Other goodies&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Working with resource bundles and i18n&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;URL Mappings&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Implementing transaction-aware Services&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Registering and using Spring beans&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;The Grails Plugin Eco-System (time permitting)&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Don&amp;#39;t worry if you&amp;#39;re not a Groovy expert; you don&amp;#39;t need to be to start getting benefits from Grails.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Download the slide deck here&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting CenturyLink on a project. He has been developing with Groovy and Grails for about six years, Spring and Hibernate since about 2003, and Java for nearly 18 years. (Has it really been that long?!) He started doing object-oriented programming in 1988 with C++, but he&amp;#39;s gotten a lot smarter about how to do OOP since then. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Over the years, he has formed and led multiple developer and special interest groups. He became co-lead of the DFW Groovy/Grails User Group in September 2013 until accepting a project in the St. Louis area late March 2014.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;In May, Jack Frosch presented Part of of his two-part talk introducing Grails. In that talk, he covered the basics of getting started with Grails, dynamic and static scaffolding, and domain class and GORM CRUD basics. For good measure, he also included a few Groovy basics for those coming to Grails without any groovy background.&lt;/p&gt;&lt;p&gt;Well, those were just the basic basics of Grails.&lt;/p&gt;&lt;p&gt;In Part II of of the talk on June 4th, we&apos;ll explore many more Grails basics. Specifically, we&apos;ll cover the following topics:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;More on domain classes&lt;/li&gt;
+  &lt;li&gt;Validation constraints&lt;/li&gt;
+  &lt;li&gt;Modeling associations&lt;/li&gt;
+  &lt;li&gt;More GORM&lt;/li&gt;
+  &lt;li&gt;Custom queries beyond the way cool dynamic finders&lt;/li&gt;
+  &lt;li&gt;ORM confiruration with static mappings&lt;/li&gt;
+  &lt;li&gt;Managing fetching and locking strategies&lt;/li&gt;
+  &lt;li&gt;More on Controllers&lt;/li&gt;
+  &lt;li&gt;Chaining action method calls&lt;/li&gt;
+  &lt;li&gt;Redirects&lt;/li&gt;
+  &lt;li&gt;REST support&lt;/li&gt;
+  &lt;li&gt;Async support&lt;/li&gt;
+  &lt;li&gt;More View capabilities&lt;/li&gt;
+  &lt;li&gt;View tags&lt;/li&gt;
+  &lt;li&gt;Resource plugin&lt;/li&gt;
+  &lt;li&gt;Leveraging jQuery&lt;/li&gt;
+  &lt;li&gt;Using Ajax&lt;/li&gt;
+  &lt;li&gt;Other goodies&lt;/li&gt;
+  &lt;li&gt;Working with resource bundles and i18n&lt;/li&gt;
+  &lt;li&gt;URL Mappings&lt;/li&gt;
+  &lt;li&gt;Implementing transaction-aware Services&lt;/li&gt;
+  &lt;li&gt;Registering and using Spring beans&lt;/li&gt;
+  &lt;li&gt;The Grails Plugin Eco-System (time permitting)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Don&apos;t worry if you&apos;re not a Groovy expert; you don&apos;t need to be to start getting benefits from Grails.&lt;/p&gt;&lt;p&gt;Download the slide deck here&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting CenturyLink on a project. He has been developing with Groovy and Grails for about six years, Spring and Hibernate since about 2003, and Java for nearly 18 years. (Has it really been that long?!) He started doing object-oriented programming in 1988 with C++, but he&apos;s gotten a lot smarter about how to do OOP since then. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Over the years, he has formed and led multiple developer and special interest groups. He became co-lead of the DFW Groovy/Grails User Group in September 2013 until accepting a project in the St. Louis area late March 2014.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Introduction to Grails, Part I</title>
       <link>http://dfw2gug.org/blog/2014/may-2104.html</link>
       <pubDate>Wed, 7 May 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/may-2104.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Anyone who has used any of the Java web frameworks like Struts, JavaServer Faces or Spring MVC has a pretty good idea of how web development is done with Java and the Java Servlet API, with or without JSPs. You probably have also used Spring and Hibernate. And maybe a page templating API, like Facelets in JSF, Tiles in Struts, SiteMesh, etc.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Grails leverages a technology stack filled with these common APIs and frameworks, like Spring, Spring MVC, Hibernate for ORM (by default), SiteMesh, etc. However, it&amp;#39;s high extensible with a robust plugin system and hundreds of plugins available to solve many common problems with easy configuration and a little coding.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Simply put, Grails is nothing like you&amp;#39;ve ever seen in Java web frameworks. Grails leverages Groovy to offers high productivity, with low ceremony, and a beautiful elegance simply not possible with traditional Java-based web frameworks.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This talk is structured in two parts, the first covering Grails basics and the second (scheduled for June) covering more intermediate Grails topics. These talks are ideal for Java and Groovy developers wanting to see one of the Groovy &amp;quot;killer applications&amp;quot; that uses Groovy to the fullest. Don&amp;#39;t worry if you&amp;#39;re not a Groovy expert; you don&amp;#39;t need to be to start getting benefits from Grails.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In Part I, to be presented on May 7th, we will explore the following topics to introduce you to Grails:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Getting started with the Grails framework (with a little Groovy intro)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Using the Grails Command Line &amp;amp;amp; Console&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Dynamic and Static Scaffolding&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Domain classes&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Controllers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;GORM CRUD / dynamic finders&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Working with Views &amp;amp;amp; Layouts&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Overview of dependency management, configuration, bootstrapping, and runtime options&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Download the slide deck here&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting CenturyLink on a project. He has been developing with Groovy and Grails for about six years, Spring and Hibernate since about 2003, and Java for nearly 18 years. (Has it really been that long?!) He started doing object-oriented programming in 1988 with C++, but he&amp;#39;s gotten a lot smarter about how to do OOP since then. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Over the years, he has formed and led multiple developer and special interest groups. He became co-lead of the DFW Groovy/Grails User Group in September 2013 until accepting a project in the St. Louis area late March 2014.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Anyone who has used any of the Java web frameworks like Struts, JavaServer Faces or Spring MVC has a pretty good idea of how web development is done with Java and the Java Servlet API, with or without JSPs. You probably have also used Spring and Hibernate. And maybe a page templating API, like Facelets in JSF, Tiles in Struts, SiteMesh, etc.&lt;/p&gt;&lt;p&gt;Grails leverages a technology stack filled with these common APIs and frameworks, like Spring, Spring MVC, Hibernate for ORM (by default), SiteMesh, etc. However, it&apos;s high extensible with a robust plugin system and hundreds of plugins available to solve many common problems with easy configuration and a little coding.&lt;/p&gt;&lt;p&gt;Simply put, Grails is nothing like you&apos;ve ever seen in Java web frameworks. Grails leverages Groovy to offers high productivity, with low ceremony, and a beautiful elegance simply not possible with traditional Java-based web frameworks.&lt;/p&gt;&lt;p&gt;This talk is structured in two parts, the first covering Grails basics and the second (scheduled for June) covering more intermediate Grails topics. These talks are ideal for Java and Groovy developers wanting to see one of the Groovy &quot;killer applications&quot; that uses Groovy to the fullest. Don&apos;t worry if you&apos;re not a Groovy expert; you don&apos;t need to be to start getting benefits from Grails.&lt;/p&gt;&lt;p&gt;In Part I, to be presented on May 7th, we will explore the following topics to introduce you to Grails:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Getting started with the Grails framework (with a little Groovy intro)&lt;/li&gt;
+  &lt;li&gt;Using the Grails Command Line &amp;amp; Console&lt;/li&gt;
+  &lt;li&gt;Dynamic and Static Scaffolding&lt;/li&gt;
+  &lt;li&gt;Domain classes&lt;/li&gt;
+  &lt;li&gt;Controllers&lt;/li&gt;
+  &lt;li&gt;GORM CRUD / dynamic finders&lt;/li&gt;
+  &lt;li&gt;Working with Views &amp;amp; Layouts&lt;/li&gt;
+  &lt;li&gt;Overview of dependency management, configuration, bootstrapping, and runtime options&lt;/li&gt;
+  &lt;li&gt;Download the slide deck here&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting CenturyLink on a project. He has been developing with Groovy and Grails for about six years, Spring and Hibernate since about 2003, and Java for nearly 18 years. (Has it really been that long?!) He started doing object-oriented programming in 1988 with C++, but he&apos;s gotten a lot smarter about how to do OOP since then. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Over the years, he has formed and led multiple developer and special interest groups. He became co-lead of the DFW Groovy/Grails User Group in September 2013 until accepting a project in the St. Louis area late March 2014.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Gradle for Fun, Profit, and World Domination</title>
       <link>http://dfw2gug.org/blog/2014/april-2014.html</link>
       <pubDate>Wed, 2 Apr 2014 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2014/april-2014.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Gradle is the best build tool available for JVM languages. We&amp;#39;ll cover why that is the case by looking at where other build tools fall short, a few examples of how easy Gradle makes building and developing software, and finally we&amp;#39;ll discuss some strategies for using Gradle at your current job.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;David Clark is a software engineer working for Tektronix Communications. His current responsibilities are 1) developing DSL&amp;#39;s for efficiently and easily querying telcomm data and 2) Developing AST&amp;#39;s for automated data decoding. Both make heavy use of Groovy. In the past he worked mainly in the financial/banking worlds developing for credit unions and loan companies using both Java and Microsoft technologies.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Gradle is the best build tool available for JVM languages. We&apos;ll cover why that is the case by looking at where other build tools fall short, a few examples of how easy Gradle makes building and developing software, and finally we&apos;ll discuss some strategies for using Gradle at your current job.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark is a software engineer working for Tektronix Communications. His current responsibilities are 1) developing DSL&apos;s for efficiently and easily querying telcomm data and 2) Developing AST&apos;s for automated data decoding. Both make heavy use of Groovy. In the past he worked mainly in the financial/banking worlds developing for credit unions and loan companies using both Java and Microsoft technologies.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Introduction to Groovy</title>
       <link>http://dfw2gug.org/blog/2014/march-2014.html</link>
       <pubDate>Wed, 5 Mar 2014 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2014/march-2014.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;We will discuss the main language differences between Java and Groovy and show and run many examples of Groovy code. We will discuss some of the libraries in the Grovoy API and JDK that make programming easier and faster.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Paul Woods is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C#, Groovy and Java.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We will discuss the main language differences between Java and Groovy and show and run many examples of Groovy code. We will discuss some of the libraries in the Grovoy API and JDK that make programming easier and faster.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Paul Woods is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C#, Groovy and Java.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>DFW2GUG 2014 Planning</title>
       <link>http://dfw2gug.org/blog/2014/february-2014.html</link>
       <pubDate>Wed, 5 Feb 2014 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2014/february-2014.html</guid>
-      <description>&amp;lt;p&amp;gt;The focus of this month&amp;#39;s meeting will be on what topics the group would like presented and who wants to volunteer to speak on said topics. Please come with ideas and be ready to help. :)&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We will spend the last part of the meeting watching a useful Groovy-Grails screencast, if time permits.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;The focus of this month&apos;s meeting will be on what topics the group would like presented and who wants to volunteer to speak on said topics. Please come with ideas and be ready to help. :)&lt;/p&gt;&lt;p&gt;We will spend the last part of the meeting watching a useful Groovy-Grails screencast, if time permits.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>January (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2014/january-2014.html</link>
       <pubDate>Wed, 1 Jan 2014 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2014/january-2014.html</guid>
-      <description>&amp;lt;p&amp;gt;New Year&amp;#39;s Day&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;It&amp;#39;s New Year&amp;#39;s Day... Go watch football... Or write Grails code... But don&amp;#39;t come here.... No Meeting.... Happy New Year&amp;#39;s&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;New Year&apos;s Day&lt;/p&gt;&lt;p&gt;It&apos;s New Year&apos;s Day... Go watch football... Or write Grails code... But don&apos;t come here.... No Meeting.... Happy New Year&apos;s&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
-      <title>What&#39;s New in Grails 2.3</title>
+      <title>What's New in Grails 2.3</title>
       <link>http://dfw2gug.org/blog/2013/december-2013.html</link>
       <pubDate>Wed, 4 Dec 2013 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2013/december-2013.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;It&amp;#39;s amazing to at how great the Grails web application platform has become over the years. The latest round of significant improvements came with the release of Grails 2.3.0. In this talk, I will discuss these new changes and show code examples illustrating how to leverage them in your projects.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Specifically, I will cover:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;The new data binding mechanism&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Server-side REST improvements&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Async support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Encoding / escaping improvements&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Hibernate 4 support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Controller enhancements&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Miscellaneous: Forked execution; Grails Wrapper; Dependency Management changes; scaffolding changes&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;There are a lot of great enhancements, so come out to see what you&amp;#39;ll get with Grails 2.3!&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;The presentation is intended for current and aspiring Grails developers who would like to explore what&amp;#39;s new in Grails. Basic Grails usage and concepts wonâ€™t be discussed in any detail.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting IBM on an insurance administration project. He has been developing with Groovy and Grails for about five years, Java for 17 years, and doing object-oriented programming since 1988. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Before Java, he was a PowerBuilder and C/C++ developer. In 1999, he formed the Gateway JUG, a St. Louis-based Java User Group and ran the group for almost 14 years. He was also acting-president of the Gateway Groovy Users Group, when its founder (Dave Klein) took an out of town project. He has presented many dozens of times at user groups, companies, and a Borland Developer Conference. He has also formally trained software developers commercially and through user group &amp;quot;group study&amp;quot; classes.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Jack has recently moved back to Texas from Missouri, having lived in Wichita Falls, Austin and Houston / Clearlake in a previous life as USAF pilot and aerospace engineer. His hobbies (when he has time) include keeping up with advances in astronomy, cosmology, and aerospace technologies. He has also recently entered the world of amateur radio and has a General Class operator.s license. He has a B.S. in Aerospace Engineering and completed about 90% of his masters in Physics/Astrophysics at the University of Missouri, St. Louis. He is married with four mostly grown kids who still regularly hit him up for money.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;It&apos;s amazing to at how great the Grails web application platform has become over the years. The latest round of significant improvements came with the release of Grails 2.3.0. In this talk, I will discuss these new changes and show code examples illustrating how to leverage them in your projects.&lt;/p&gt;&lt;p&gt;Specifically, I will cover:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The new data binding mechanism&lt;/li&gt;
+  &lt;li&gt;Server-side REST improvements&lt;/li&gt;
+  &lt;li&gt;Async support&lt;/li&gt;
+  &lt;li&gt;Encoding / escaping improvements&lt;/li&gt;
+  &lt;li&gt;Hibernate 4 support&lt;/li&gt;
+  &lt;li&gt;Controller enhancements&lt;/li&gt;
+  &lt;li&gt;Miscellaneous: Forked execution; Grails Wrapper; Dependency Management changes; scaffolding changes&lt;/li&gt;
+  &lt;li&gt;There are a lot of great enhancements, so come out to see what you&apos;ll get with Grails 2.3!&lt;/li&gt;
+  &lt;li&gt;The presentation is intended for current and aspiring Grails developers who would like to explore what&apos;s new in Grails. Basic Grails usage and concepts wonâ€™t be discussed in any detail.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting IBM on an insurance administration project. He has been developing with Groovy and Grails for about five years, Java for 17 years, and doing object-oriented programming since 1988. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Before Java, he was a PowerBuilder and C/C++ developer. In 1999, he formed the Gateway JUG, a St. Louis-based Java User Group and ran the group for almost 14 years. He was also acting-president of the Gateway Groovy Users Group, when its founder (Dave Klein) took an out of town project. He has presented many dozens of times at user groups, companies, and a Borland Developer Conference. He has also formally trained software developers commercially and through user group &quot;group study&quot; classes.&lt;/p&gt;&lt;p&gt;Jack has recently moved back to Texas from Missouri, having lived in Wichita Falls, Austin and Houston / Clearlake in a previous life as USAF pilot and aerospace engineer. His hobbies (when he has time) include keeping up with advances in astronomy, cosmology, and aerospace technologies. He has also recently entered the world of amateur radio and has a General Class operator.s license. He has a B.S. in Aerospace Engineering and completed about 90% of his masters in Physics/Astrophysics at the University of Missouri, St. Louis. He is married with four mostly grown kids who still regularly hit him up for money.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Lift Off With Groovy 2.1</title>
       <link>http://dfw2gug.org/blog/2013/november-2013.html</link>
       <pubDate>Wed, 6 Nov 2013 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2013/november-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;During this month&amp;#39;s meeting we will be watching a presentation given by Groovy core committer, Guillaume Laforge, at SpringOne 2GX. The presentation will cover the new and exciting features found in Groovy 2.1. Afterwards, we will discuss.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;During this month&apos;s meeting we will be watching a presentation given by Groovy core committer, Guillaume Laforge, at SpringOne 2GX. The presentation will cover the new and exciting features found in Groovy 2.1. Afterwards, we will discuss.&lt;/p&gt;
+	  </description>
     </item>
-
+    
+    <item>
+      <title>Fourth Post</title>
+      <link>http://dfw2gug.org/blog/2013/fourth-post.html</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2013/fourth-post.html</guid>
+      <description>
+      &lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.org&quot; class=&quot;bare&quot;&gt;http://example.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.org&quot;&gt;Example.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
+mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
+ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
+ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
+id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
+consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
+libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
+    
     <item>
       <title>Introduction to Groovy Meta-Object Protocol</title>
       <link>http://dfw2gug.org/blog/2013/october-2013.html</link>
       <pubDate>Wed, 2 Oct 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/october-2013.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Anyone who has programmed with Groovy is familiar with the many useful dynamic behaviors Groovy has seemingly added to Java classes. For instance, in Java we.ve always been able to do String concatenation with the + (plus) operator; i.e. .Hello. + . World. yields .Hello World.. With Groovy, java.lang.String now appears to have a bevy of new behaviors. For instance, with Groovy our Java String class now has the ability to subtract a substring from a String using the . (minus) operator; i.e. .Frisco, TX 75034. . . TX. yields .Frisco, 75034..&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;How the heck is that possible? Groovy seems to be messing with the Java String class that is tucked away safely in the Java runtime JAR. Is Groovy using some kind of runtime byte code manipulation or Java security hack to manipulate the String class? Not at all. Groovy accomplishes this and most of its dynamic runtime tricks using the Groovy Meta-Object Protocol (MOP).&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This presentation will provide an introduction to Groovy meta-object programming. In the presentation, we.ll examine various techniques for meta-programming in Groovy and take a deep dive into the method invocation flow through Groovy.s MOP API. During the presentation, we.ll see numerous demonstrations illustrating various MOP techniques. Time permitting, we.ll explore a few ways Grails, the Groovy web application framework, leverages Groovy meta-programming.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The presentation is intended for Java developers new to Groovy as well as experienced users of Groovy who want to do more than just consume the many predefined dynamic behaviors added by the Groovy JDK.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting IBM on an insurance administration project. He has been developing with Groovy and Grails for about five years, Java for 17 years, and doing object-oriented programming since 1988. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Before Java, he was a PowerBuilder and C/C++ developer. In 1999, he formed the Gateway JUG, a St. Louis-based Java User Group and ran the group for almost 14 years. He was also acting-president of the Gateway Groovy Users Group, when its founder (Dave Klein) took an out of town project. He has presented many dozens of times at user groups, companies, and a Borland Developer Conference. He has also formally trained software developers commercially and through user group &amp;quot;group study&amp;quot; classes.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Jack has recently moved back to Texas from Missouri, having lived in Wichita Falls, Austin and Houston / Clearlake in a previous life as USAF pilot and aerospace engineer. His hobbies (when he has time) include keeping up with advances in astronomy, cosmology, and aerospace technologies. He has also recently entered the world of amateur radio and has a General Class operator.s license. He has a B.S. in Aerospace Engineering and completed about 90% of his masters in Physics/Astrophysics at the University of Missouri, St. Louis. He is married with four mostly grown kids who still regularly hit him up for money.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Anyone who has programmed with Groovy is familiar with the many useful dynamic behaviors Groovy has seemingly added to Java classes. For instance, in Java we.ve always been able to do String concatenation with the + (plus) operator; i.e. .Hello. + . World. yields .Hello World.. With Groovy, java.lang.String now appears to have a bevy of new behaviors. For instance, with Groovy our Java String class now has the ability to subtract a substring from a String using the . (minus) operator; i.e. .Frisco, TX 75034. . . TX. yields .Frisco, 75034..&lt;/p&gt;&lt;p&gt;How the heck is that possible? Groovy seems to be messing with the Java String class that is tucked away safely in the Java runtime JAR. Is Groovy using some kind of runtime byte code manipulation or Java security hack to manipulate the String class? Not at all. Groovy accomplishes this and most of its dynamic runtime tricks using the Groovy Meta-Object Protocol (MOP).&lt;/p&gt;&lt;p&gt;This presentation will provide an introduction to Groovy meta-object programming. In the presentation, we.ll examine various techniques for meta-programming in Groovy and take a deep dive into the method invocation flow through Groovy.s MOP API. During the presentation, we.ll see numerous demonstrations illustrating various MOP techniques. Time permitting, we.ll explore a few ways Grails, the Groovy web application framework, leverages Groovy meta-programming.&lt;/p&gt;&lt;p&gt;The presentation is intended for Java developers new to Groovy as well as experienced users of Groovy who want to do more than just consume the many predefined dynamic behaviors added by the Groovy JDK.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting IBM on an insurance administration project. He has been developing with Groovy and Grails for about five years, Java for 17 years, and doing object-oriented programming since 1988. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Before Java, he was a PowerBuilder and C/C++ developer. In 1999, he formed the Gateway JUG, a St. Louis-based Java User Group and ran the group for almost 14 years. He was also acting-president of the Gateway Groovy Users Group, when its founder (Dave Klein) took an out of town project. He has presented many dozens of times at user groups, companies, and a Borland Developer Conference. He has also formally trained software developers commercially and through user group &quot;group study&quot; classes.&lt;/p&gt;&lt;p&gt;Jack has recently moved back to Texas from Missouri, having lived in Wichita Falls, Austin and Houston / Clearlake in a previous life as USAF pilot and aerospace engineer. His hobbies (when he has time) include keeping up with advances in astronomy, cosmology, and aerospace technologies. He has also recently entered the world of amateur radio and has a General Class operator.s license. He has a B.S. in Aerospace Engineering and completed about 90% of his masters in Physics/Astrophysics at the University of Missouri, St. Louis. He is married with four mostly grown kids who still regularly hit him up for money.&lt;/p&gt;
+	  </description>
     </item>
-
+    
+    <item>
+      <title>Third Post</title>
+      <link>http://dfw2gug.org/blog/2013/third-post.html</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2013/third-post.html</guid>
+      <description>
+      &lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.org&quot; class=&quot;bare&quot;&gt;http://example.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.org&quot;&gt;Example.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
+mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
+ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
+ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
+id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
+consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
+libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
+    
     <item>
       <title>AST Transformations with Groovy</title>
       <link>http://dfw2gug.org/blog/2013/september-2013.html</link>
       <pubDate>Wed, 4 Sep 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/september-2013.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;AST Transformations are becoming more important with each new release of Groovy. For example, most of the new features in the 2.1 release of Groovy involve &amp;lt;a href=&amp;quot;http://groovy.codehaus.org/Groovy+2.1+release+notes&amp;quot;&amp;gt;AST Transformations&amp;lt;/a&amp;gt;. But, most Groovy users are not aware of what they do and how to go about writing one themselves. This presentation will (hopefully) help you do both. We&amp;#39;ll cover what an AST is, how to transform one, and why this is useful. Learning more about AST transformations, even if you never write one yourself, make Groovy a much more powerful and versatile language in your hands.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;David Clark is a Software Engineer at Tektronix Communications, located in Plano, TX. He has 14 years of experience working with Groovy, Java, C++, and Visual Basic (but don&amp;#39;t tell anyone about that last one). His interests are in all things JVM and Groovy related, especially if it involves multi-threaded and meta programming. He is crazy in that he actually likes to do presentations. He lives in the DFW area with his wife and three kids.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Presentation link at github: &amp;lt;a href=&amp;quot;https://github.com/dwclark/AstTransformations&amp;quot;&amp;gt;https://github.com/dwclark/AstTransformations&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;AST Transformations are becoming more important with each new release of Groovy. For example, most of the new features in the 2.1 release of Groovy involve &lt;a href=&quot;http://groovy.codehaus.org/Groovy+2.1+release+notes&quot;&gt;AST Transformations&lt;/a&gt;. But, most Groovy users are not aware of what they do and how to go about writing one themselves. This presentation will (hopefully) help you do both. We&apos;ll cover what an AST is, how to transform one, and why this is useful. Learning more about AST transformations, even if you never write one yourself, make Groovy a much more powerful and versatile language in your hands.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark is a Software Engineer at Tektronix Communications, located in Plano, TX. He has 14 years of experience working with Groovy, Java, C++, and Visual Basic (but don&apos;t tell anyone about that last one). His interests are in all things JVM and Groovy related, especially if it involves multi-threaded and meta programming. He is crazy in that he actually likes to do presentations. He lives in the DFW area with his wife and three kids.&lt;/p&gt;&lt;p&gt;Presentation link at github: &lt;a href=&quot;https://github.com/dwclark/AstTransformations&quot;&gt;https://github.com/dwclark/AstTransformations&lt;/a&gt;&lt;/p&gt;
+	  </description>
     </item>
-
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://dfw2gug.org/blog/2013/second-post.html</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2013/second-post.html</guid>
+      <description>
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://example.org&quot;&gt;http://example.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://example.org&quot;&gt;Example.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,&lt;br/&gt;mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo&lt;br/&gt;ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet&lt;br/&gt;ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,&lt;br/&gt;id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In&lt;br/&gt;consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere&lt;br/&gt;libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
+	  </description>
+    </item>
+    
     <item>
       <title>Building a Grails Plugin</title>
       <link>http://dfw2gug.org/blog/2013/august-2013.html</link>
       <pubDate>Wed, 7 Aug 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/august-2013.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;A circuit breaker is a way to control mis-behaving code. Our breaker will protect our system by limiting the number of exceptions code will throw.&amp;lt;br/&amp;gt;We&amp;#39;re going to build a circuit breaker into a grails plugin. Our plugin will be published on git hub. We will use &amp;lt;a href=&amp;quot;http://www.travis-ci.org&amp;quot;&amp;gt;travis-ci.org&amp;lt;/a&amp;gt; to provide continuous integration&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Paul Woods is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but then became a electronic technician in the 1990s. Paul graduated from UTD in 2006 with a degree in software engineering. He has experience with C++, C# and Java. He started programming around 2008.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;A circuit breaker is a way to control mis-behaving code. Our breaker will protect our system by limiting the number of exceptions code will throw.&lt;br/&gt;We&apos;re going to build a circuit breaker into a grails plugin. Our plugin will be published on git hub. We will use &lt;a href=&quot;http://www.travis-ci.org&quot;&gt;travis-ci.org&lt;/a&gt; to provide continuous integration&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Paul Woods is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but then became a electronic technician in the 1990s. Paul graduated from UTD in 2006 with a degree in software engineering. He has experience with C++, C# and Java. He started programming around 2008.&lt;/p&gt;
+	  </description>
     </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://dfw2gug.org/blog/2013/first-post.html</link>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2013/first-post.html</guid>
+      <description>
+      
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&lt;/p&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://example.org&quot;&gt;http://example.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://example.org&quot;&gt;Example.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu, 
+mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo 
+ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet 
+ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus, 
+id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales.&lt;/p&gt; 
+
+&lt;pre class=&quot;prettyprint&quot;&gt;
+&lt;code&gt;
+package org.jbake;
+
+public class Oven {
+	public static void main(String[] args) {
+		System.out.print(&quot;Baking!&quot;);
+  }
+}
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;In consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere 
+libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
+
+	  </description>
+    </item>
+    
     <item>
       <title>July (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2013/july-2013.html</link>
       <pubDate>Wed, 3 Jul 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/july-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;Happy 4th of July!!! - No Meeting&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We will be celebrating the 4th of July holiday with our families. We hope you enjoy the 4th as well. God Bless America! See you in August...&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;Happy 4th of July!!! - No Meeting&lt;/p&gt;&lt;p&gt;We will be celebrating the 4th of July holiday with our families. We hope you enjoy the 4th as well. God Bless America! See you in August...&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Grails Goodness - DevNexus 2013</title>
       <link>http://dfw2gug.org/blog/2013/june-2013.html</link>
       <pubDate>Wed, 5 Jun 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/june-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;This month we will be watching the following video presentation: &amp;lt;a href=&amp;quot;http://www.infoq.com/presentations/Grails-introduction-examples&amp;quot;&amp;gt;Grails Goodness - DevNexus 2013&amp;lt;/a&amp;gt; by Ken Kousen (&amp;lt;a href=&amp;quot;https://twitter.com/kenkousen&amp;quot;&amp;gt;@KenKousen&amp;lt;/a&amp;gt;). We will then discuss the content and talk about future meeting topics.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Please remember, we are always looking for speakers and topics. If you want to present to the group, please don&amp;#39;t hesitate to contact one of the group organizers. If you want to see a topic covered, let us know, and we&amp;#39;ll do what we can to either get a speaker or cover it ourselves!&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;This month we will be watching the following video presentation: &lt;a href=&quot;http://www.infoq.com/presentations/Grails-introduction-examples&quot;&gt;Grails Goodness - DevNexus 2013&lt;/a&gt; by Ken Kousen (&lt;a href=&quot;https://twitter.com/kenkousen&quot;&gt;@KenKousen&lt;/a&gt;). We will then discuss the content and talk about future meeting topics.&lt;/p&gt;&lt;p&gt;Please remember, we are always looking for speakers and topics. If you want to present to the group, please don&apos;t hesitate to contact one of the group organizers. If you want to see a topic covered, let us know, and we&apos;ll do what we can to either get a speaker or cover it ourselves!&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Spock, the smarter testing and specification framework</title>
       <link>http://dfw2gug.org/blog/2013/may-2013.html</link>
       <pubDate>Wed, 1 May 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/may-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;This month we will be watching the following video presentation: &amp;quot;&amp;lt;a href=&amp;quot;http://vimeo.com/33947244&amp;quot;&amp;gt;Smarter Testing with Spock&amp;lt;/a&amp;gt;&amp;quot; by Peter Niederwieser. We will then discuss the content and talk about future meeting topics.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Please remember, we are always looking for speakers and topics. If you want to present to the group, please don&amp;#39;t hesitate to contact one of the group organizers. If you want to see a topic covered, let us know, and we&amp;#39;ll do what we can to either get a speaker or cover it ourselves!&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;This month we will be watching the following video presentation: &quot;&lt;a href=&quot;http://vimeo.com/33947244&quot;&gt;Smarter Testing with Spock&lt;/a&gt;&quot; by Peter Niederwieser. We will then discuss the content and talk about future meeting topics.&lt;/p&gt;&lt;p&gt;Please remember, we are always looking for speakers and topics. If you want to present to the group, please don&apos;t hesitate to contact one of the group organizers. If you want to see a topic covered, let us know, and we&apos;ll do what we can to either get a speaker or cover it ourselves!&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>April (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2013/april-2013.html</link>
       <pubDate>Wed, 3 Apr 2013 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2013/april-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;Due to unforeseen circumstances, there will be no April meeting of the DFW Groovy / Grails user group. We hope to see you next month!&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;Due to unforeseen circumstances, there will be no April meeting of the DFW Groovy / Grails user group. We hope to see you next month!&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Clean Code</title>
       <link>http://dfw2gug.org/blog/2013/march-2013.html</link>
       <pubDate>Wed, 6 Mar 2013 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2013/march-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;In lieu of a speaker, this month&amp;#39;s meeting will feature a pair of videos from Robert C. Martin. They are the first two from his &amp;quot;Clean Code&amp;quot; video series, available at &amp;lt;a href=&amp;quot;http://www.cleancoders.com&amp;quot;&amp;gt;http://www.cleancoders.com&amp;lt;/a&amp;gt;. We are paying for the community license, so we encourage your participation. As the community licenses are not exactly inexpensive, donations/sponsorships gladly accepted. Feedback and donations will play a large part in whether or not we continue the series :)&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;After the videos, we&amp;#39;ll have an open discussion. We can discuss the videos, or anything else. If anyone has a short presentation (5-30 minutes) we&amp;#39;d love to hear from you about that as well.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Please remember, we are always looking for speakers and topics. If you want to present to the group, please don&amp;#39;t hesitate to contact one of the group organizers. If you want to see a topic covered, let us know, and we&amp;#39;ll do what we can to either get a speaker or cover it ourselves!&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;In lieu of a speaker, this month&apos;s meeting will feature a pair of videos from Robert C. Martin. They are the first two from his &quot;Clean Code&quot; video series, available at &lt;a href=&quot;http://www.cleancoders.com&quot;&gt;http://www.cleancoders.com&lt;/a&gt;. We are paying for the community license, so we encourage your participation. As the community licenses are not exactly inexpensive, donations/sponsorships gladly accepted. Feedback and donations will play a large part in whether or not we continue the series :)&lt;/p&gt;&lt;p&gt;After the videos, we&apos;ll have an open discussion. We can discuss the videos, or anything else. If anyone has a short presentation (5-30 minutes) we&apos;d love to hear from you about that as well.&lt;/p&gt;&lt;p&gt;Please remember, we are always looking for speakers and topics. If you want to present to the group, please don&apos;t hesitate to contact one of the group organizers. If you want to see a topic covered, let us know, and we&apos;ll do what we can to either get a speaker or cover it ourselves!&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>GPars Concurrency Framework</title>
       <link>http://dfw2gug.org/blog/2013/february-2013.html</link>
       <pubDate>Wed, 6 Feb 2013 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2013/february-2013.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;We will take a look at the &amp;lt;a href=&amp;quot;http://gpars.codehaus.org/&amp;quot;&amp;gt;GPars concurrency framework&amp;lt;/a&amp;gt;. GPars, or something like it, is most likely the future of concurrent/multi-threaded programming on the JVM. It provides a lot of reusable abstractions for designing, architecting, and building concurrent applications. We will take a look at the following features/frameworks that GPars provides: asynchronous functions, dataflow concurrency, actors, fork/join, and concurrent collections. We will take a look at examples for each of these and discuss the reasons you might choose one or the other of these features. If you would like to follow along and play with the code, please bring your laptop. The code is designed to work with Groovy 2 and Java 7, but with some minor changes will also work with Groovy 1.8 and Java 6.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;David Clark is a software developer since 1999. He has been using Java since 2005 and Groovy since version 1.0. He has mostly worked in the financial industry and currently works for a small company which makes business loans, where his software manages the entire loan process from application to funding. Prior to 2005 he mostly worked with Microsoft technologies in the financial industry. His main interests in software are in the areas of security, multi-threaded/concurrent programming, and new languages (like Groovy) that make his life easier.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We will take a look at the &lt;a href=&quot;http://gpars.codehaus.org/&quot;&gt;GPars concurrency framework&lt;/a&gt;. GPars, or something like it, is most likely the future of concurrent/multi-threaded programming on the JVM. It provides a lot of reusable abstractions for designing, architecting, and building concurrent applications. We will take a look at the following features/frameworks that GPars provides: asynchronous functions, dataflow concurrency, actors, fork/join, and concurrent collections. We will take a look at examples for each of these and discuss the reasons you might choose one or the other of these features. If you would like to follow along and play with the code, please bring your laptop. The code is designed to work with Groovy 2 and Java 7, but with some minor changes will also work with Groovy 1.8 and Java 6.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark is a software developer since 1999. He has been using Java since 2005 and Groovy since version 1.0. He has mostly worked in the financial industry and currently works for a small company which makes business loans, where his software manages the entire loan process from application to funding. Prior to 2005 he mostly worked with Microsoft technologies in the financial industry. His main interests in software are in the areas of security, multi-threaded/concurrent programming, and new languages (like Groovy) that make his life easier.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>January</title>
       <link>http://dfw2gug.org/blog/2013/january-2013.html</link>
       <pubDate>Wed, 2 Jan 2013 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2013/january-2013.html</guid>
-      <description>&amp;lt;p&amp;gt;No meeting.... See you in February!&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Happy New Year!&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;No meeting.... See you in February!&lt;/p&gt;&lt;p&gt;Happy New Year!&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Multi-Threading and Concurrency in Groovy</title>
       <link>http://dfw2gug.org/blog/2012/december-2012.html</link>
       <pubDate>Wed, 5 Dec 2012 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2012/december-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;December&amp;#39;s Groovy User&amp;#39;s Group meeting will focus on multi-threading and concurrency in groovy. The presentation will focus on two areas: 1) Tools standard Groovy gives to make multi-threaded programming easier and less error prone and 2) The [GPars]&amp;lt;a href=&amp;quot;http://gpars.codehaus.org&amp;quot;&amp;gt;http://gpars.codehaus.org&amp;lt;/a&amp;gt;) framework which simplifies making common programming tasks concurrent. The presentation will be code and audience driven. If you don&amp;#39;t even know how to launch a new thread in groovy, we can cover that. If you are a multi-threading maniac and want to talk about the inner workings of JDK 7&amp;#39;s Fork/Join framework, we can cover that too. Please bring your laptop for playing with and using the code &amp;lt;a href=&amp;quot;https://github.com/dwclark/GroovyThreading&amp;quot;&amp;gt;samples&amp;lt;/a&amp;gt;. It&amp;#39;s best if you have JDK 7 and Groovy 2 installed, but a lot of the examples will run with little to no modifications with lower versions.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;David Clark is a software developer since 1999. He has been using Java since 2005 and Groovy since version 1.0. He has mostly worked in the financial industry and currently works for a small company which makes business loans, where his software manages the entire loan process from application to funding. Prior to 2005 he mostly worked with Microsoft technologies in the financial industry. His main interests in software are in the areas of security, multi-threaded/concurrent programming, and new languages (like Groovy) that make his life easier.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;December&apos;s Groovy User&apos;s Group meeting will focus on multi-threading and concurrency in groovy. The presentation will focus on two areas: 1) Tools standard Groovy gives to make multi-threaded programming easier and less error prone and 2) The [GPars]&lt;a href=&quot;http://gpars.codehaus.org&quot;&gt;http://gpars.codehaus.org&lt;/a&gt;) framework which simplifies making common programming tasks concurrent. The presentation will be code and audience driven. If you don&apos;t even know how to launch a new thread in groovy, we can cover that. If you are a multi-threading maniac and want to talk about the inner workings of JDK 7&apos;s Fork/Join framework, we can cover that too. Please bring your laptop for playing with and using the code &lt;a href=&quot;https://github.com/dwclark/GroovyThreading&quot;&gt;samples&lt;/a&gt;. It&apos;s best if you have JDK 7 and Groovy 2 installed, but a lot of the examples will run with little to no modifications with lower versions.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark is a software developer since 1999. He has been using Java since 2005 and Groovy since version 1.0. He has mostly worked in the financial industry and currently works for a small company which makes business loans, where his software manages the entire loan process from application to funding. Prior to 2005 he mostly worked with Microsoft technologies in the financial industry. His main interests in software are in the areas of security, multi-threaded/concurrent programming, and new languages (like Groovy) that make his life easier.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
-      <title>Hand&#39;s on Groovy Programming</title>
+      <title>Hand's on Groovy Programming</title>
       <link>http://dfw2gug.org/blog/2012/november-2012.html</link>
       <pubDate>Wed, 7 Nov 2012 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2012/november-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;We&amp;#39;re going to spend the meeting trying to solve various programming challenges using the Groovy programming language. We&amp;#39;re going to solve some of the &amp;lt;a href=&amp;quot;http://projecteuler.net/problems&amp;quot;&amp;gt;Project Euler challenges&amp;lt;/a&amp;gt;. If anyone has any other programming challenges, please bring them too the meeting.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Paul Woods (&amp;lt;a href=&amp;quot;https://twitter.com/mr_paul_woods&amp;quot;&amp;gt;@mr_paul_woods&amp;lt;/a&amp;gt;) started his career at Texas Instruments as an electronic technician, while at the same time coding tools and reports for the lab. After around 10 years, he went back to school. In 2006 he graduated UTD and became a Software Engineer. Paul is experienced in C++, Visual Basic, C#, Java, and Groovy/Grails&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We&apos;re going to spend the meeting trying to solve various programming challenges using the Groovy programming language. We&apos;re going to solve some of the &lt;a href=&quot;http://projecteuler.net/problems&quot;&gt;Project Euler challenges&lt;/a&gt;. If anyone has any other programming challenges, please bring them too the meeting.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Paul Woods (&lt;a href=&quot;https://twitter.com/mr_paul_woods&quot;&gt;@mr_paul_woods&lt;/a&gt;) started his career at Texas Instruments as an electronic technician, while at the same time coding tools and reports for the lab. After around 10 years, he went back to school. In 2006 he graduated UTD and became a Software Engineer. Paul is experienced in C++, Visual Basic, C#, Java, and Groovy/Grails&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Geb: Save Time with Groovy Functional Testing</title>
       <link>http://dfw2gug.org/blog/2012/october-2012.html</link>
       <pubDate>Wed, 3 Oct 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/october-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Developing tests is expensive, but so are broken web apps. Less expensive and broader functional tests can help to find the right balance for your projects. We will explore ways to make functional testing of web applications less expensive and more robust by leveraging the interactive Groovy console for rapid test development, advanced page abstraction techniques with &amp;lt;a href=&amp;quot;http://www.gebish.org/&amp;quot;&amp;gt;Geb&amp;lt;/a&amp;gt;, and automated report generation with &amp;lt;a href=&amp;quot;http://code.google.com/p/spock/&amp;quot;&amp;gt;Spock&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Bio:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://www.joshhamit.com&amp;quot;&amp;gt;Josh Hamit&amp;lt;/a&amp;gt; currently works in the Custom Java Development practice at &amp;lt;a href=&amp;quot;http://credera.com&amp;quot;&amp;gt;Credera&amp;lt;/a&amp;gt;. Prior to that, he owned and operated a small web development company while earning his degree at Baylor University. In his free time, Josh works to support Mountain Movers International with his father.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Developing tests is expensive, but so are broken web apps. Less expensive and broader functional tests can help to find the right balance for your projects. We will explore ways to make functional testing of web applications less expensive and more robust by leveraging the interactive Groovy console for rapid test development, advanced page abstraction techniques with &lt;a href=&quot;http://www.gebish.org/&quot;&gt;Geb&lt;/a&gt;, and automated report generation with &lt;a href=&quot;http://code.google.com/p/spock/&quot;&gt;Spock&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Bio:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.joshhamit.com&quot;&gt;Josh Hamit&lt;/a&gt; currently works in the Custom Java Development practice at &lt;a href=&quot;http://credera.com&quot;&gt;Credera&lt;/a&gt;. Prior to that, he owned and operated a small web development company while earning his degree at Baylor University. In his free time, Josh works to support Mountain Movers International with his father.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
-      <title>Meta-programming with Groovy &amp; Grails</title>
+      <title>Meta-programming with Groovy & Grails</title>
       <link>http://dfw2gug.org/blog/2012/september-2012.html</link>
       <pubDate>Wed, 5 Sep 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/september-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;The dynamic features of the Groovy programming language enable you to effortlessly change behavior at runtime, intercept methods, and execute dynamic code without writing reams of code. We explore how these features are leveraged by Grails (to implement dynamic Hibernate finders, Builders, etc.) or how you could use it for your apps. Groovy, baby!&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Sunny Thandassery&amp;#39;s entrepreneurial endeavors always have him looking for solutions with quick returns while maximizing existing investments. This search lead him to the Grails development framework and the Amazon Cloud (AWS) platform for running his companies&amp;#39; SaaS applications. He has spent the last 5 years focused on these technologies and is always happy to share his insights and expertise. He is the founder of &amp;lt;a href=&amp;quot;http://BluSynergy.com&amp;quot;&amp;gt;BluSynergy&amp;lt;/a&amp;gt;, a provider of billing and payments solutions for SaaS/Cloud companies.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;The dynamic features of the Groovy programming language enable you to effortlessly change behavior at runtime, intercept methods, and execute dynamic code without writing reams of code. We explore how these features are leveraged by Grails (to implement dynamic Hibernate finders, Builders, etc.) or how you could use it for your apps. Groovy, baby!&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Sunny Thandassery&apos;s entrepreneurial endeavors always have him looking for solutions with quick returns while maximizing existing investments. This search lead him to the Grails development framework and the Amazon Cloud (AWS) platform for running his companies&apos; SaaS applications. He has spent the last 5 years focused on these technologies and is always happy to share his insights and expertise. He is the founder of &lt;a href=&quot;http://BluSynergy.com&quot;&gt;BluSynergy&lt;/a&gt;, a provider of billing and payments solutions for SaaS/Cloud companies.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Grails 2.0 Resources Plugin</title>
       <link>http://dfw2gug.org/blog/2012/august-2012.html</link>
       <pubDate>Wed, 1 Aug 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/august-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;The Resources plugin allows the developer to develop thier .css and .js files in multiple files. The plugin will combine the files at runtime in order to reduce the number of downloads required by the browser. This can help improve the performance of the application.&amp;lt;br/&amp;gt;We will discuss both how to use the plugin, as well as some of the internals of how the plugin works.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Paul Woods (&amp;lt;a href=&amp;quot;https://twitter.com/mr_paul_woods&amp;quot;&amp;gt;@mr_paul_woods&amp;lt;/a&amp;gt;) started his career at Texas Instruments as an electronic technician, while at the same time coding tools and reports for the lab. After around 10 years, he went back to school. In 2006 he graduated UTD and became a Software Engineer. Paul is experienced in C++, Visual Basic, C#, Java, and Groovy/Grails.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;The Resources plugin allows the developer to develop thier .css and .js files in multiple files. The plugin will combine the files at runtime in order to reduce the number of downloads required by the browser. This can help improve the performance of the application.&lt;br/&gt;We will discuss both how to use the plugin, as well as some of the internals of how the plugin works.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Paul Woods (&lt;a href=&quot;https://twitter.com/mr_paul_woods&quot;&gt;@mr_paul_woods&lt;/a&gt;) started his career at Texas Instruments as an electronic technician, while at the same time coding tools and reports for the lab. After around 10 years, he went back to school. In 2006 he graduated UTD and became a Software Engineer. Paul is experienced in C++, Visual Basic, C#, Java, and Groovy/Grails.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>July (No Meeting)</title>
       <link>http://dfw2gug.org/blog/2012/july-2012.html</link>
       <pubDate>Wed, 4 Jul 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/july-2012.html</guid>
-      <description>&amp;lt;p&amp;gt;Happy 4th of July!&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;No meeting this month. We will see you in August.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;p&gt;Happy 4th of July!&lt;/p&gt;&lt;p&gt;No meeting this month. We will see you in August.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>From Zero to Hero(ku) in 30 minutes, quickly prototype Grails apps on Heroku</title>
       <link>http://dfw2gug.org/blog/2012/june-2012.html</link>
       <pubDate>Wed, 6 Jun 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/june-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Quickly prototyping apps is becoming more important every day, but sharing those prototypes can be difficult when they only exist on your laptop. June&amp;#39;s talk will cover how to get a &amp;lt;a href=&amp;quot;http://grails.org&amp;quot;&amp;gt;Grails&amp;lt;/a&amp;gt; app quickly setup on &amp;lt;a href=&amp;quot;http://heroku.com&amp;quot;&amp;gt;Heroku&amp;lt;/a&amp;gt;, why you might or might not want to, and workflow imposed by the platform.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We&amp;#39;ll cover the basics of git/git-flow/github, postgresql, heroku, pgadmin3, and more. We&amp;#39;ll be doing some hands on stuff, so be sure to have both a heroku account, and a github account setup before you come so you can follow along.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Morgan Nelson is a co-founder of the DFW Groovy/Grails User Group, and a Senior Software Engineer with &amp;lt;a href=&amp;quot;http://getaroom.com&amp;quot;&amp;gt;getaroom.com&amp;lt;/a&amp;gt;, a supplier of hotel accommodations world wide. With 9 years in software development, and over a decade in network administration/operations, his experience is diverse and unusual. Professionally a Ruby on Rails developer, Morgan wishes he had more time to play with Groovy and Grails.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Quickly prototyping apps is becoming more important every day, but sharing those prototypes can be difficult when they only exist on your laptop. June&apos;s talk will cover how to get a &lt;a href=&quot;http://grails.org&quot;&gt;Grails&lt;/a&gt; app quickly setup on &lt;a href=&quot;http://heroku.com&quot;&gt;Heroku&lt;/a&gt;, why you might or might not want to, and workflow imposed by the platform.&lt;/p&gt;&lt;p&gt;We&apos;ll cover the basics of git/git-flow/github, postgresql, heroku, pgadmin3, and more. We&apos;ll be doing some hands on stuff, so be sure to have both a heroku account, and a github account setup before you come so you can follow along.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Morgan Nelson is a co-founder of the DFW Groovy/Grails User Group, and a Senior Software Engineer with &lt;a href=&quot;http://getaroom.com&quot;&gt;getaroom.com&lt;/a&gt;, a supplier of hotel accommodations world wide. With 9 years in software development, and over a decade in network administration/operations, his experience is diverse and unusual. Professionally a Ruby on Rails developer, Morgan wishes he had more time to play with Groovy and Grails.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Intro to Scala, Part 2: The Lift Web Framework</title>
       <link>http://dfw2gug.org/blog/2012/may-2012.html</link>
       <pubDate>Wed, 2 May 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/may-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;In &amp;lt;a href=&amp;quot;march-2012.html&amp;quot;&amp;gt;March&amp;lt;/a&amp;gt;, we had the opportunity to learn the basics of Scala. This month we will dig deeper into Scala through an introduction to the &amp;lt;a href=&amp;quot;http://liftweb.net&amp;quot;&amp;gt;Lift web framework&amp;lt;/a&amp;gt;. Lift is a &amp;quot;View First&amp;quot; web framework, inspired by the Apache Wicket framework. It favors convention over configuration and packages into a war file that can be deployed in your favorite servlet engine. This presentation will focus on creating a basic Lift site. Attendees will learn to initialize a project, work with the Mapper ORM, create browser views and RESTful services. Finally, we will touch on AJAX and Comet integration&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Brent Lemons (&amp;lt;a href=&amp;quot;https://twitter.com/#!/brentlemons&amp;quot;&amp;gt;@brentlemons&amp;lt;/a&amp;gt;) is an Architect with &amp;lt;a href=&amp;quot;http://credera.com&amp;quot;&amp;gt;Credera&amp;lt;/a&amp;gt;. He has more than 13 years of software architecture and technology consulting experience. He started his career with Southwest Airlines, writing flight tracking and meteorological software. Prior to joining Credera, he was the CTO for a cloud based electronic medical records company. Much of his career has focused on Java based high transaction, computationally intensive application development. He has experience in the transportation, energy, travel and leisure and health care industries.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;In &lt;a href=&quot;march-2012.html&quot;&gt;March&lt;/a&gt;, we had the opportunity to learn the basics of Scala. This month we will dig deeper into Scala through an introduction to the &lt;a href=&quot;http://liftweb.net&quot;&gt;Lift web framework&lt;/a&gt;. Lift is a &quot;View First&quot; web framework, inspired by the Apache Wicket framework. It favors convention over configuration and packages into a war file that can be deployed in your favorite servlet engine. This presentation will focus on creating a basic Lift site. Attendees will learn to initialize a project, work with the Mapper ORM, create browser views and RESTful services. Finally, we will touch on AJAX and Comet integration&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Brent Lemons (&lt;a href=&quot;https://twitter.com/#!/brentlemons&quot;&gt;@brentlemons&lt;/a&gt;) is an Architect with &lt;a href=&quot;http://credera.com&quot;&gt;Credera&lt;/a&gt;. He has more than 13 years of software architecture and technology consulting experience. He started his career with Southwest Airlines, writing flight tracking and meteorological software. Prior to joining Credera, he was the CTO for a cloud based electronic medical records company. Much of his career has focused on Java based high transaction, computationally intensive application development. He has experience in the transportation, energy, travel and leisure and health care industries.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>No More Ugly Grails</title>
       <link>http://dfw2gug.org/blog/2012/april-2012.html</link>
       <pubDate>Wed, 4 Apr 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/april-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;While Grails has brought increased productivity and happiness to Java developers, our users still end up getting sites that look like they were made by developers for developers. Enter &amp;lt;a href=&amp;quot;http://twitter.github.com/bootstrap/&amp;quot;&amp;gt;Twitter Bootstrap&amp;lt;/a&amp;gt;. Bootstrap is an open source project created by the guys and girls from Twitter that brings together a best-practices based CSS which incorporates user interface components and a grid layout. Combined, these make it easy for non-designers to create consistent, responsive, and, dare say, good looking websites for our users. This talk with cover the basics of Bootstrap and how to make use of it in a Grails application, including layout and some of the core widgets&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Tim Sporcic is a software architect with &amp;lt;a href=&amp;quot;http://credera.com&amp;quot;&amp;gt;Credera&amp;lt;/a&amp;gt;. He has over a decade experience in Java, ranging from embedded systems to large enterprise systems in the financial services space. He has been playing with Grails on various small projects for the past year. He has been in the DFW area for almost a decade now and is active in the local user group communities.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;While Grails has brought increased productivity and happiness to Java developers, our users still end up getting sites that look like they were made by developers for developers. Enter &lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter Bootstrap&lt;/a&gt;. Bootstrap is an open source project created by the guys and girls from Twitter that brings together a best-practices based CSS which incorporates user interface components and a grid layout. Combined, these make it easy for non-designers to create consistent, responsive, and, dare say, good looking websites for our users. This talk with cover the basics of Bootstrap and how to make use of it in a Grails application, including layout and some of the core widgets&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Tim Sporcic is a software architect with &lt;a href=&quot;http://credera.com&quot;&gt;Credera&lt;/a&gt;. He has over a decade experience in Java, ranging from embedded systems to large enterprise systems in the financial services space. He has been playing with Grails on various small projects for the past year. He has been in the DFW area for almost a decade now and is active in the local user group communities.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>An Introduction to Scala</title>
       <link>http://dfw2gug.org/blog/2012/march-2012.html</link>
       <pubDate>Wed, 7 Mar 2012 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2012/march-2012.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;http://scala-lang.org&amp;quot;&amp;gt;Scala&amp;lt;/a&amp;gt; is a general purpose programming language, smoothly integrating object-oriented and functional paradigms. Code compiles down to Java compatible byte code and runs on the JVM. It has become the foundation for high transaction organizations such as Twitter and FourSquare.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This presentation will focus on introducing attendees to the high level concepts of Scala. We will focus on basic object/class structures, functional concepts and integrating with Java. The goal of the presentation is to encourage attendees to experiment with Scala and to provide a platform upon which to compare and contrast different JVM based languages.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Brent Lemons (&amp;lt;a href=&amp;quot;https://twitter.com/#!/brentlemons&amp;quot;&amp;gt;@brentlemons&amp;lt;/a&amp;gt;) is an Architect with &amp;lt;a href=&amp;quot;http://credera.com&amp;quot;&amp;gt;Credera&amp;lt;/a&amp;gt;. He has more than 13 years of software architecture and technology consulting experience. He started his career with Southwest Airlines, writing flight tracking and meteorological software. Prior to joining Credera, he was the CTO for a cloud based electronic medical records company. Much of his career has focused on Java based high transaction, computationally intensive application development. He has experience in the transportation, energy, travel and leisure and health care industries.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://scala-lang.org&quot;&gt;Scala&lt;/a&gt; is a general purpose programming language, smoothly integrating object-oriented and functional paradigms. Code compiles down to Java compatible byte code and runs on the JVM. It has become the foundation for high transaction organizations such as Twitter and FourSquare.&lt;/p&gt;&lt;p&gt;This presentation will focus on introducing attendees to the high level concepts of Scala. We will focus on basic object/class structures, functional concepts and integrating with Java. The goal of the presentation is to encourage attendees to experiment with Scala and to provide a platform upon which to compare and contrast different JVM based languages.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Brent Lemons (&lt;a href=&quot;https://twitter.com/#!/brentlemons&quot;&gt;@brentlemons&lt;/a&gt;) is an Architect with &lt;a href=&quot;http://credera.com&quot;&gt;Credera&lt;/a&gt;. He has more than 13 years of software architecture and technology consulting experience. He started his career with Southwest Airlines, writing flight tracking and meteorological software. Prior to joining Credera, he was the CTO for a cloud based electronic medical records company. Much of his career has focused on Java based high transaction, computationally intensive application development. He has experience in the transportation, energy, travel and leisure and health care industries.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Database Migrations in Grails</title>
       <link>http://dfw2gug.org/blog/2011/november-2011.html</link>
       <pubDate>Wed, 2 Nov 2011 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2011/november-2011.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Database migrations are an important facet of web development. When an application is in production and the customer requests incremental changes to the database, the development team must have a rock solid plan to preserve the existing data while seamlessly adding new functionality and tables. Without a tool to manage database migrations, teams rely on manual sql, error prone communication processes, and costly risk management to implement solutions. This presentation will cover the Grails Database Migration Plugin, the official plugin created by Spring Source which is based on the popular &amp;lt;a href=&amp;quot;http://liquibase.org&amp;quot;&amp;gt;Liquibase&amp;lt;/a&amp;gt; framework. With live examples, we will demonstrate how database migrations can be controlled, managed, and executed.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Nirav Assar is an independent consultant and owner of &amp;lt;a href=&amp;quot;http://solutionsfit.com&amp;quot;&amp;gt;solutionsfit&amp;lt;/a&amp;gt;, a consulting firm based in the Dallas-Fort Worth Area. He has consulted on several projects in various industries, such as financial, real estate, government, and retail. His expertise is based in several Java technologies like Grails, Groovy, Spring, and Seam. Agile philosophy is at the heart of his profession, and he enjoys sharing techniques and tools that help software people excel at their jobs. You may contact him at &amp;lt;a href=&amp;quot;mailto:nirav@solutionsfit.com&amp;quot;&amp;gt;nirav@solutionsfit.com&amp;lt;/a&amp;gt;. View his blog at &amp;lt;a href=&amp;quot;http://assarconsulting.blogspot.com/&amp;quot;&amp;gt;http://assarconsulting.blogspot.com/&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Database migrations are an important facet of web development. When an application is in production and the customer requests incremental changes to the database, the development team must have a rock solid plan to preserve the existing data while seamlessly adding new functionality and tables. Without a tool to manage database migrations, teams rely on manual sql, error prone communication processes, and costly risk management to implement solutions. This presentation will cover the Grails Database Migration Plugin, the official plugin created by Spring Source which is based on the popular &lt;a href=&quot;http://liquibase.org&quot;&gt;Liquibase&lt;/a&gt; framework. With live examples, we will demonstrate how database migrations can be controlled, managed, and executed.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Nirav Assar is an independent consultant and owner of &lt;a href=&quot;http://solutionsfit.com&quot;&gt;solutionsfit&lt;/a&gt;, a consulting firm based in the Dallas-Fort Worth Area. He has consulted on several projects in various industries, such as financial, real estate, government, and retail. His expertise is based in several Java technologies like Grails, Groovy, Spring, and Seam. Agile philosophy is at the heart of his profession, and he enjoys sharing techniques and tools that help software people excel at their jobs. You may contact him at &lt;a href=&quot;mailto:nirav@solutionsfit.com&quot;&gt;nirav@solutionsfit.com&lt;/a&gt;. View his blog at &lt;a href=&quot;http://assarconsulting.blogspot.com/&quot;&gt;http://assarconsulting.blogspot.com/&lt;/a&gt;.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>Replacing Struts with Grails: Project Review and Lessons Learned</title>
       <link>http://dfw2gug.org/blog/2011/october-2011.html</link>
       <pubDate>Tue, 4 Oct 2011 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2011/october-2011.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;This is a project and technology comparative review of a commercial grade Groovy / Grails application that replaced Struts in a .gov domain.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Reviewing some design and code, as appropriate, the emphasis is on &amp;quot;Lessons Learned&amp;quot;, so you can advocate Groovy and Grails, as a design win vs. traditional Java EE approaches.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We will cover the project starting point, goals, approach, technology decisions, development experience and project results. We will also learn a bit about leveraging the Amazon cloud on this project.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Bob Makowski has 3 phases in his career: Real-Time, UNIX standards &amp;amp;amp; UNIX Internationalization, and Java EE. Highlights include Real-Time satcom and launch communications on Shuttle Launch Processing, work on Space Station Freedom, and architect on a Canadian Weather Radar. Bob was the UNIX Standards Architect at Bell Labs, an officer of an IEEE Posix standard, and did Java EE architect work at Marshall Space Flight&amp;#39;s Propulsion Division, American Airlines, US Army, and Lockheed&amp;#39;s F-35 Parts Data Management System.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;This is a project and technology comparative review of a commercial grade Groovy / Grails application that replaced Struts in a .gov domain.&lt;/p&gt;&lt;p&gt;Reviewing some design and code, as appropriate, the emphasis is on &quot;Lessons Learned&quot;, so you can advocate Groovy and Grails, as a design win vs. traditional Java EE approaches.&lt;/p&gt;&lt;p&gt;We will cover the project starting point, goals, approach, technology decisions, development experience and project results. We will also learn a bit about leveraging the Amazon cloud on this project.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Bob Makowski has 3 phases in his career: Real-Time, UNIX standards &amp;amp; UNIX Internationalization, and Java EE. Highlights include Real-Time satcom and launch communications on Shuttle Launch Processing, work on Space Station Freedom, and architect on a Canadian Weather Radar. Bob was the UNIX Standards Architect at Bell Labs, an officer of an IEEE Posix standard, and did Java EE architect work at Marshall Space Flight&apos;s Propulsion Division, American Airlines, US Army, and Lockheed&apos;s F-35 Parts Data Management System.&lt;/p&gt;
+	  </description>
     </item>
-
+    
     <item>
       <title>The Holy Grails: Hands-On Workshop - Part 2</title>
       <link>http://dfw2gug.org/blog/2011/september-2011.html</link>
       <pubDate>Wed, 7 Sep 2011 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2011/september-2011.html</guid>
-      <description>&amp;lt;h2&amp;gt;Abstract&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;The September meeting will be a continuation of our August meeting. We will spend a few minutes in the beginning of the meeting getting newcomers caught up, and refreshing attendees from last month on where we left off.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Grails is a Groovy-based, rapid-application development platform for building web and web-service applications that run on the JVM.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This session will be very &amp;quot;hands-on&amp;quot;. Please bring your laptop and plan to &amp;quot;learn while doing.&amp;quot; I will start with a high-level intro to Grails, and then we will start building a demo application. By the time we are done you will have built custom domain objects, controllers, gsps, services and tag libraries.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This hands-on workshop will be spread over two months, August and September.&amp;lt;/p&amp;gt;&amp;lt;h2&amp;gt;Bio&amp;lt;/h2&amp;gt;&amp;lt;p&amp;gt;Erik Weibust is a Sr Architect at &amp;lt;a href=&amp;quot;http://credera.com&amp;quot;&amp;gt;Credera&amp;lt;/a&amp;gt;. Erik is very active in the DFW technology user group scene. Erik helps lead &amp;lt;a href=&amp;quot;http://javamug.org&amp;quot;&amp;gt;JavaMUG&amp;lt;/a&amp;gt;, a DFW Java focused user group. Erik also helps lead the &amp;lt;a href=&amp;quot;http://dfw2gug.org&amp;quot;&amp;gt;DFW2GUG&amp;lt;/a&amp;gt;, a Groovy and Grails focused user group in Dallas. Erik was also the founder of the &amp;lt;a href=&amp;quot;http://springdallasug.org&amp;quot;&amp;gt;Spring Dallas UG&amp;lt;/a&amp;gt;. A group focused on promoting and educating Dallas Java developers on the Spring Framework.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You can follow Erik on Twitter - &amp;lt;a href=&amp;quot;http://www.twitter.com/erikweibust&amp;quot;&amp;gt;@erikweibust&amp;lt;/a&amp;gt; or keep up with him on his blog - &amp;lt;a href=&amp;quot;http://erik.weibust.net&amp;quot;&amp;gt;Erik&amp;#39;s Hmm...&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description>	  
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;The September meeting will be a continuation of our August meeting. We will spend a few minutes in the beginning of the meeting getting newcomers caught up, and refreshing attendees from last month on where we left off.&lt;/p&gt;&lt;p&gt;Grails is a Groovy-based, rapid-application development platform for building web and web-service applications that run on the JVM.&lt;/p&gt;&lt;p&gt;This session will be very &quot;hands-on&quot;. Please bring your laptop and plan to &quot;learn while doing.&quot; I will start with a high-level intro to Grails, and then we will start building a demo application. By the time we are done you will have built custom domain objects, controllers, gsps, services and tag libraries.&lt;/p&gt;&lt;p&gt;This hands-on workshop will be spread over two months, August and September.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Erik Weibust is a Sr Architect at &lt;a href=&quot;http://credera.com&quot;&gt;Credera&lt;/a&gt;. Erik is very active in the DFW technology user group scene. Erik helps lead &lt;a href=&quot;http://javamug.org&quot;&gt;JavaMUG&lt;/a&gt;, a DFW Java focused user group. Erik also helps lead the &lt;a href=&quot;http://dfw2gug.org&quot;&gt;DFW2GUG&lt;/a&gt;, a Groovy and Grails focused user group in Dallas. Erik was also the founder of the &lt;a href=&quot;http://springdallasug.org&quot;&gt;Spring Dallas UG&lt;/a&gt;. A group focused on promoting and educating Dallas Java developers on the Spring Framework.&lt;/p&gt;&lt;p&gt;You can follow Erik on Twitter - &lt;a href=&quot;http://www.twitter.com/erikweibust&quot;&gt;@erikweibust&lt;/a&gt; or keep up with him on his blog - &lt;a href=&quot;http://erik.weibust.net&quot;&gt;Erik&apos;s Hmm...&lt;/a&gt;.&lt;/p&gt;
+	  </description>
     </item>
+    
 
   </channel> 
 </rss>

@@ -1,40 +1,36 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>An Introduction to Scala</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="groovy">
+    <meta name="generator" content="JBake">
 
+    <!-- Le styles -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../css/asciidoctor.css" rel="stylesheet">
+    <link href="../../css/base.css" rel="stylesheet">
+    <link href="../../css/prettify.css" rel="stylesheet">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-	    <meta charset="utf-8" />
-	    <title>An Introduction to Scala</title>
-	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	    <meta name="description" content="" />
-	    <meta name="author" content="" />
-	    <meta name="keywords" content="" />
-	    <meta name="generator" content="JBake" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
+    <link rel="shortcut icon" href="../../favicon.ico">
+  </head>
+  <body onload="prettyPrint()">
+    <div id="wrap">
+   
 	
-	    <!-- Le styles -->
-	    <link rel="stylesheet" href="../../css/bootstrap.min.css" />
-	    <link rel="stylesheet" href="../../css/asciidoctor.css" />
-	    <link rel="stylesheet" href="../../css/base.css" />
-	    <link rel="stylesheet" href="../../css/prettify.css" />
-	
-	    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-	    <!--[if lt IE 9]>
-	      <script src="/js/html5shiv.min.js"></script>
-	    <![endif]-->
-	
-	    <!-- Fav and touch icons -->
-	    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png"/>
-	    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png"/>
-	    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png"/>
-	    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png"/>-->
-	    <link rel="shortcut icon" href="../../favicon.ico" />
-	</head>
-	<body onload="prettyPrint()">
-	<div id="wrap">
-		<div>
-	
-	  <!-- Fixed navbar -->
-      <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -43,55 +39,47 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" shape="rect" href="../../">DFW2GUG.org</a>
+          <a class="navbar-brand" href="../../">DFW2GUG.org</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a shape="rect" href="../../index.html">Home</a></li>
-            <li><a shape="rect" href="../../archive.html">Archives</a></li>
-            <li><a shape="rect" href="../../about.html">About</a></li>
-            <li><a target="_blank" shape="rect" href="../../feed.xml">Subscribe</a></li>
+            <li><a href="../../index.html">Home</a></li>
+            <li><a href="../../archive.html">Archives</a></li>
+            <li><a href="../../about.html">About</a></li>
+            <li><a href="../../feed.xml">Subscribe</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
-
-	</div>
-		<div class="container">
+    <div class="container">
 	
-				<h1>An Introduction to Scala</h1>
-                <p>
-                    <em>07 March 2012</em> -
-                    <strong>Brent Lemons</strong>   
-                </p>
-		
-			<p><h2>Abstract</h2><p><a href="http://scala-lang.org">Scala</a> is a general purpose programming language, smoothly integrating object-oriented and functional paradigms. Code compiles down to Java compatible byte code and runs on the JVM. It has become the foundation for high transaction organizations such as Twitter and FourSquare.</p><p>This presentation will focus on introducing attendees to the high level concepts of Scala. We will focus on basic object/class structures, functional concepts and integrating with Java. The goal of the presentation is to encourage attendees to experiment with Scala and to provide a platform upon which to compare and contrast different JVM based languages.</p><h2>Bio</h2><p>Brent Lemons (<a href="https://twitter.com/#!/brentlemons">@brentlemons</a>) is an Architect with <a href="http://credera.com">Credera</a>. He has more than 13 years of software architecture and technology consulting experience. He started his career with Southwest Airlines, writing flight tracking and meteorological software. Prior to joining Credera, he was the CTO for a cloud based electronic medical records company. Much of his career has focused on Java based high transaction, computationally intensive application development. He has experience in the transportation, energy, travel and leisure and health care industries.</p></p>
-		
-			<hr />
-			
-		</div>
+	<div class="page-header">
+		<h1>An Introduction to Scala</h1>
 	</div>
-	<div>
-			<div id="push"></div>
-    
-		    <div id="footer">
-		      <div class="container">
-		        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/" shape="rect">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org" shape="rect">JBake <span>v2.3.2</span></a></p>
-		      </div>
-		    </div>
-	    
-		    <!-- Le javascript
-		    ================================================== -->
-		    <!-- Placed at the end of the document so the pages load faster -->
-		    <script xml:space="preserve" src="../../js/jquery-1.11.1.min.js"></script>
-		    <script xml:space="preserve" src="../../js/bootstrap.min.js"></script>
-		    <script xml:space="preserve" src="../../js/prettify.js"></script>
 
-            <script xml:space="preserve">
-                $(function () {
-                  $('[data-toggle="tooltip"]').tooltip()
-                })
-            </script>
-    	</div>
-    </body>
+	<p><em>07 March 2012</em> - <strong>Brent Lemons</strong></p>
+
+	<p><h2>Abstract</h2><p><a href="http://scala-lang.org">Scala</a> is a general purpose programming language, smoothly integrating object-oriented and functional paradigms. Code compiles down to Java compatible byte code and runs on the JVM. It has become the foundation for high transaction organizations such as Twitter and FourSquare.</p><p>This presentation will focus on introducing attendees to the high level concepts of Scala. We will focus on basic object/class structures, functional concepts and integrating with Java. The goal of the presentation is to encourage attendees to experiment with Scala and to provide a platform upon which to compare and contrast different JVM based languages.</p><h2>Bio</h2><p>Brent Lemons (<a href="https://twitter.com/#!/brentlemons">@brentlemons</a>) is an Architect with <a href="http://credera.com">Credera</a>. He has more than 13 years of software architecture and technology consulting experience. He started his career with Southwest Airlines, writing flight tracking and meteorological software. Prior to joining Credera, he was the CTO for a cloud based electronic medical records company. Much of his career has focused on Java based high transaction, computationally intensive application development. He has experience in the transportation, energy, travel and leisure and health care industries.</p></p>
+
+	<hr />
+	
+		</div>
+		<div id="push"></div>
+    </div>
+    
+    <div id="footer">
+      <div class="container">
+        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake v2.3.2</a></p>
+      </div>
+    </div>
+    
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../../js/jquery-1.11.1.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/prettify.js"></script>
+
+    <script src="../../js/site.js"></script>
+  </body>
 </html>

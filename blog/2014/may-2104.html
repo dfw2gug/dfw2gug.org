@@ -1,40 +1,36 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Introduction to Grails, Part I</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="groovy">
+    <meta name="generator" content="JBake">
 
+    <!-- Le styles -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../css/asciidoctor.css" rel="stylesheet">
+    <link href="../../css/base.css" rel="stylesheet">
+    <link href="../../css/prettify.css" rel="stylesheet">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-	    <meta charset="utf-8" />
-	    <title>Introduction to Grails, Part I</title>
-	    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	    <meta name="description" content="" />
-	    <meta name="author" content="" />
-	    <meta name="keywords" content="" />
-	    <meta name="generator" content="JBake" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
+    <link rel="shortcut icon" href="../../favicon.ico">
+  </head>
+  <body onload="prettyPrint()">
+    <div id="wrap">
+   
 	
-	    <!-- Le styles -->
-	    <link rel="stylesheet" href="../../css/bootstrap.min.css" />
-	    <link rel="stylesheet" href="../../css/asciidoctor.css" />
-	    <link rel="stylesheet" href="../../css/base.css" />
-	    <link rel="stylesheet" href="../../css/prettify.css" />
-	
-	    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-	    <!--[if lt IE 9]>
-	      <script src="/js/html5shiv.min.js"></script>
-	    <![endif]-->
-	
-	    <!-- Fav and touch icons -->
-	    <!--<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png"/>
-	    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png"/>
-	    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png"/>
-	    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png"/>-->
-	    <link rel="shortcut icon" href="../../favicon.ico" />
-	</head>
-	<body onload="prettyPrint()">
-	<div id="wrap">
-		<div>
-	
-	  <!-- Fixed navbar -->
-      <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -43,29 +39,27 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" shape="rect" href="../../">DFW2GUG.org</a>
+          <a class="navbar-brand" href="../../">DFW2GUG.org</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a shape="rect" href="../../index.html">Home</a></li>
-            <li><a shape="rect" href="../../archive.html">Archives</a></li>
-            <li><a shape="rect" href="../../about.html">About</a></li>
-            <li><a target="_blank" shape="rect" href="../../feed.xml">Subscribe</a></li>
+            <li><a href="../../index.html">Home</a></li>
+            <li><a href="../../archive.html">Archives</a></li>
+            <li><a href="../../about.html">About</a></li>
+            <li><a href="../../feed.xml">Subscribe</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
-
-	</div>
-		<div class="container">
+    <div class="container">
 	
-				<h1>Introduction to Grails, Part I</h1>
-                <p>
-                    <em>07 May 2014</em> -
-                    <strong>Jack Frosch</strong>   
-                </p>
-		
-			<p><h2>Abstract</h2><p>Anyone who has used any of the Java web frameworks like Struts, JavaServer Faces or Spring MVC has a pretty good idea of how web development is done with Java and the Java Servlet API, with or without JSPs. You probably have also used Spring and Hibernate. And maybe a page templating API, like Facelets in JSF, Tiles in Struts, SiteMesh, etc.</p><p>Grails leverages a technology stack filled with these common APIs and frameworks, like Spring, Spring MVC, Hibernate for ORM (by default), SiteMesh, etc. However, it's high extensible with a robust plugin system and hundreds of plugins available to solve many common problems with easy configuration and a little coding.</p><p>Simply put, Grails is nothing like you've ever seen in Java web frameworks. Grails leverages Groovy to offers high productivity, with low ceremony, and a beautiful elegance simply not possible with traditional Java-based web frameworks.</p><p>This talk is structured in two parts, the first covering Grails basics and the second (scheduled for June) covering more intermediate Grails topics. These talks are ideal for Java and Groovy developers wanting to see one of the Groovy "killer applications" that uses Groovy to the fullest. Don't worry if you're not a Groovy expert; you don't need to be to start getting benefits from Grails.</p><p>In Part I, to be presented on May 7th, we will explore the following topics to introduce you to Grails:</p>
+	<div class="page-header">
+		<h1>Introduction to Grails, Part I</h1>
+	</div>
+
+	<p><em>07 May 2014</em> - <strong>Jack Frosch</strong></p>
+
+	<p><h2>Abstract</h2><p>Anyone who has used any of the Java web frameworks like Struts, JavaServer Faces or Spring MVC has a pretty good idea of how web development is done with Java and the Java Servlet API, with or without JSPs. You probably have also used Spring and Hibernate. And maybe a page templating API, like Facelets in JSF, Tiles in Struts, SiteMesh, etc.</p><p>Grails leverages a technology stack filled with these common APIs and frameworks, like Spring, Spring MVC, Hibernate for ORM (by default), SiteMesh, etc. However, it's high extensible with a robust plugin system and hundreds of plugins available to solve many common problems with easy configuration and a little coding.</p><p>Simply put, Grails is nothing like you've ever seen in Java web frameworks. Grails leverages Groovy to offers high productivity, with low ceremony, and a beautiful elegance simply not possible with traditional Java-based web frameworks.</p><p>This talk is structured in two parts, the first covering Grails basics and the second (scheduled for June) covering more intermediate Grails topics. These talks are ideal for Java and Groovy developers wanting to see one of the Groovy "killer applications" that uses Groovy to the fullest. Don't worry if you're not a Groovy expert; you don't need to be to start getting benefits from Grails.</p><p>In Part I, to be presented on May 7th, we will explore the following topics to introduce you to Grails:</p>
 <ul>
   <li>Getting started with the Grails framework (with a little Groovy intro)</li>
   <li>Using the Grails Command Line &amp; Console</li>
@@ -77,32 +71,26 @@
   <li>Overview of dependency management, configuration, bootstrapping, and runtime options</li>
   <li>Download the slide deck here</li>
 </ul><h2>Bio</h2><p>Jack Frosch is a seasoned software developer / architect and entrepreneur, currently supporting CenturyLink on a project. He has been developing with Groovy and Grails for about six years, Spring and Hibernate since about 2003, and Java for nearly 18 years. (Has it really been that long?!) He started doing object-oriented programming in 1988 with C++, but he's gotten a lot smarter about how to do OOP since then. A zealous Agile development proponent, Jack is a Certified ScrumMaster and TDD evangelist. Over the years, he has formed and led multiple developer and special interest groups. He became co-lead of the DFW Groovy/Grails User Group in September 2013 until accepting a project in the St. Louis area late March 2014.</p></p>
-		
-			<hr />
-			
-		</div>
-	</div>
-	<div>
-			<div id="push"></div>
-    
-		    <div id="footer">
-		      <div class="container">
-		        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/" shape="rect">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org" shape="rect">JBake <span>v2.3.2</span></a></p>
-		      </div>
-		    </div>
-	    
-		    <!-- Le javascript
-		    ================================================== -->
-		    <!-- Placed at the end of the document so the pages load faster -->
-		    <script xml:space="preserve" src="../../js/jquery-1.11.1.min.js"></script>
-		    <script xml:space="preserve" src="../../js/bootstrap.min.js"></script>
-		    <script xml:space="preserve" src="../../js/prettify.js"></script>
 
-            <script xml:space="preserve">
-                $(function () {
-                  $('[data-toggle="tooltip"]').tooltip()
-                })
-            </script>
-    	</div>
-    </body>
+	<hr />
+	
+		</div>
+		<div id="push"></div>
+    </div>
+    
+    <div id="footer">
+      <div class="container">
+        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake v2.3.2</a></p>
+      </div>
+    </div>
+    
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../../js/jquery-1.11.1.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/prettify.js"></script>
+
+    <script src="../../js/site.js"></script>
+  </body>
 </html>

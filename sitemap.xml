@@ -1,166 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
     <url>
-        <loc>http://dfw2gug.orgabout.html</loc>
-        <lastmod>2015-02-11</lastmod>
+    	<loc>http://dfw2gug.orgabout.html</loc>
+    	<lastmod>2015-02-11</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2015/march-2015.html</loc>
-        <lastmod>2015-03-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2015/april-2015.html</loc>
+    	<lastmod>2015-04-01</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2015/february-2015.html</loc>
-        <lastmod>2015-02-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2015/march-2015.html</loc>
+    	<lastmod>2015-03-04</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2015/january-2015.html</loc>
-        <lastmod>2015-01-07</lastmod>
+    	<loc>http://dfw2gug.orgblog/2015/february-2015.html</loc>
+    	<lastmod>2015-02-04</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/december-2014.html</loc>
-        <lastmod>2014-12-03</lastmod>
+    	<loc>http://dfw2gug.orgblog/2015/january-2015.html</loc>
+    	<lastmod>2015-01-07</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/november-2014.html</loc>
-        <lastmod>2014-11-05</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/december-2014.html</loc>
+    	<lastmod>2014-12-03</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/october-2014.html</loc>
-        <lastmod>2014-10-01</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/november-2014.html</loc>
+    	<lastmod>2014-11-05</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/september-2014.html</loc>
-        <lastmod>2014-09-03</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/october-2014.html</loc>
+    	<lastmod>2014-10-01</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/august-2014.html</loc>
-        <lastmod>2014-08-06</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/september-2014.html</loc>
+    	<lastmod>2014-09-03</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/july-2014.html</loc>
-        <lastmod>2014-07-02</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/august-2014.html</loc>
+    	<lastmod>2014-08-06</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/june-2014.html</loc>
-        <lastmod>2014-06-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/july-2014.html</loc>
+    	<lastmod>2014-07-02</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/may-2104.html</loc>
-        <lastmod>2014-05-07</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/june-2014.html</loc>
+    	<lastmod>2014-06-04</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/april-2014.html</loc>
-        <lastmod>2014-04-02</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/may-2104.html</loc>
+    	<lastmod>2014-05-07</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/march-2014.html</loc>
-        <lastmod>2014-03-05</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/april-2014.html</loc>
+    	<lastmod>2014-04-02</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/february-2014.html</loc>
-        <lastmod>2014-02-05</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/march-2014.html</loc>
+    	<lastmod>2014-03-05</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2014/january-2014.html</loc>
-        <lastmod>2014-01-01</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/february-2014.html</loc>
+    	<lastmod>2014-02-05</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/december-2013.html</loc>
-        <lastmod>2013-12-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2014/january-2014.html</loc>
+    	<lastmod>2014-01-01</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/november-2013.html</loc>
-        <lastmod>2013-11-06</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/december-2013.html</loc>
+    	<lastmod>2013-12-04</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/october-2013.html</loc>
-        <lastmod>2013-10-02</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/november-2013.html</loc>
+    	<lastmod>2013-11-06</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/september-2013.html</loc>
-        <lastmod>2013-09-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/fourth-post.html</loc>
+    	<lastmod>2013-10-17</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/august-2013.html</loc>
-        <lastmod>2013-08-07</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/october-2013.html</loc>
+    	<lastmod>2013-10-02</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/july-2013.html</loc>
-        <lastmod>2013-07-03</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/third-post.html</loc>
+    	<lastmod>2013-09-26</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/june-2013.html</loc>
-        <lastmod>2013-06-05</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/september-2013.html</loc>
+    	<lastmod>2013-09-04</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/may-2013.html</loc>
-        <lastmod>2013-05-01</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/second-post.html</loc>
+    	<lastmod>2013-08-25</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/april-2013.html</loc>
-        <lastmod>2013-04-03</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/august-2013.html</loc>
+    	<lastmod>2013-08-07</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/march-2013.html</loc>
-        <lastmod>2013-03-06</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/first-post.html</loc>
+    	<lastmod>2013-07-24</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/february-2013.html</loc>
-        <lastmod>2013-02-06</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/july-2013.html</loc>
+    	<lastmod>2013-07-03</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2013/january-2013.html</loc>
-        <lastmod>2013-01-02</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/june-2013.html</loc>
+    	<lastmod>2013-06-05</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/december-2012.html</loc>
-        <lastmod>2012-12-05</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/may-2013.html</loc>
+    	<lastmod>2013-05-01</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/november-2012.html</loc>
-        <lastmod>2012-11-07</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/april-2013.html</loc>
+    	<lastmod>2013-04-03</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/october-2012.html</loc>
-        <lastmod>2012-10-03</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/march-2013.html</loc>
+    	<lastmod>2013-03-06</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/september-2012.html</loc>
-        <lastmod>2012-09-05</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/february-2013.html</loc>
+    	<lastmod>2013-02-06</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/august-2012.html</loc>
-        <lastmod>2012-08-01</lastmod>
+    	<loc>http://dfw2gug.orgblog/2013/january-2013.html</loc>
+    	<lastmod>2013-01-02</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/july-2012.html</loc>
-        <lastmod>2012-07-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/december-2012.html</loc>
+    	<lastmod>2012-12-05</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/june-2012.html</loc>
-        <lastmod>2012-06-06</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/november-2012.html</loc>
+    	<lastmod>2012-11-07</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/may-2012.html</loc>
-        <lastmod>2012-05-02</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/october-2012.html</loc>
+    	<lastmod>2012-10-03</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/april-2012.html</loc>
-        <lastmod>2012-04-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/september-2012.html</loc>
+    	<lastmod>2012-09-05</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2012/march-2012.html</loc>
-        <lastmod>2012-03-07</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/august-2012.html</loc>
+    	<lastmod>2012-08-01</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2011/november-2011.html</loc>
-        <lastmod>2011-11-02</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/july-2012.html</loc>
+    	<lastmod>2012-07-04</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2011/october-2011.html</loc>
-        <lastmod>2011-10-04</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/june-2012.html</loc>
+    	<lastmod>2012-06-06</lastmod>
     </url>
+
     <url>
-        <loc>http://dfw2gug.orgblog/2011/september-2011.html</loc>
-        <lastmod>2011-09-07</lastmod>
+    	<loc>http://dfw2gug.orgblog/2012/may-2012.html</loc>
+    	<lastmod>2012-05-02</lastmod>
     </url>
+
+    <url>
+    	<loc>http://dfw2gug.orgblog/2012/april-2012.html</loc>
+    	<lastmod>2012-04-04</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://dfw2gug.orgblog/2012/march-2012.html</loc>
+    	<lastmod>2012-03-07</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://dfw2gug.orgblog/2011/november-2011.html</loc>
+    	<lastmod>2011-11-02</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://dfw2gug.orgblog/2011/october-2011.html</loc>
+    	<lastmod>2011-10-04</lastmod>
+    </url>
+
+    <url>
+    	<loc>http://dfw2gug.orgblog/2011/september-2011.html</loc>
+    	<lastmod>2011-09-07</lastmod>
+    </url>
+
 </urlset>
