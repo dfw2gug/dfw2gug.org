@@ -15,4 +15,4 @@ The meetings take place at the [Improving Enterprises](https://www.google.com/ma
     16633 Dallas Parkway #100
     Addison, TX 75001
 
-    
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3347.013940842928!2d-96.82695299999999!3d32.977033999999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c214428760391%3A0x93e3cd120aeda77a!2sImproving+Enterprises%2C+Inc.!5e0!3m2!1sen!2sus!4v1425516170209" width="400" height="300" frameborder="0" style="border:0"></iframe>
