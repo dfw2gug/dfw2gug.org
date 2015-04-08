@@ -21,7 +21,7 @@ The contents of the file should be in the following Markdown format (with added 
     status=published
     ~~~~~~
     
-    To be determined...
+    Your page content here...
 
 When you are ready to build the site with any content changes, run:
 
@@ -32,6 +32,8 @@ which will generate the site. You can then either view it in a browser by loadin
     ./groovy serve.groovy [port]
     
 and then point your browser to http://localhost[:port] to view the site.
+
+> Note: You can leave the server running in a separate console window and run `gradlew jbake` repeatedly without restarting the server.
 
 ## Publishing
 
