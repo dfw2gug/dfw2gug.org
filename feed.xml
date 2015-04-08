@@ -6,17 +6,17 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 4 Mar 2015 19:42:21 -0600</pubDate>
-    <lastBuildDate>Wed, 4 Mar 2015 19:42:21 -0600</lastBuildDate>
+    <pubDate>Wed, 8 Apr 2015 18:11:52 -0500</pubDate>
+    <lastBuildDate>Wed, 8 Apr 2015 18:11:52 -0500</lastBuildDate>
 
     
     <item>
-      <title>April</title>
+      <title>Microservices with Groovy and Spring Boot</title>
       <link>http://dfw2gug.org/blog/2015/april-2015.html</link>
       <pubDate>Wed, 1 Apr 2015 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2015/april-2015.html</guid>
       <description>
-      &lt;p&gt;To be determined...&lt;/p&gt;
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Microservices Architecture is currently on the rage with developers. As developers move to The Cloud and Scale their applications, the Monolithic approach is falling short. Microservices bring a better approach for developing these types of applications but it also introduces new problems. This talk will cover Microservice Architecture and how to develop them using Spring Boot + Groovy.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/Han_Cholo&quot;&gt;Andrew Rubalcaba&lt;/a&gt; is the Owner and Operator of La Nube Consulting. He currently works in the DFW area providing clients with IT solutions for large Enterprise Systems. He has spent the last couple of years developing Spring/JEE solutions for various clients. He is currently having fun learning and developing solutions in Scala. When Andrew is not programming he enjoys traveling with his wife Sonia and spending time with their dog Bootsy, crossfit, drinking craft beer, and going to concerts.&lt;/p&gt;
 	  </description>
     </item>
     
