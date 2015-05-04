@@ -27,10 +27,10 @@
             Addison, TX 75001
         </div>
     </div>
-
+    
     <% published_posts[0..9].each { post -> %>
         <a href='${post.uri}'><h3>${post.title}</h3></a>
-        <p style="margin-top:-10px;font-style:italic;"><span>${post.date.format("dd MMMM yyyy")}</span> - <span>${post.presenter}</span></p>
+        <p style="margin-top:-10px;font-style:italic;"><span>${(post.meetingDate ? Date.parse('yyyy-MM-dd', post.meetingDate) : post.date).format("dd MMMM yyyy")}</span> - <span>${post.presenter}</span></p>
         <p style="margin-top:-5px;">${post.abstract}</p>
     <% } %>
 
