@@ -6,9 +6,24 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 29 Apr 2015 17:05:23 -0500</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2015 17:05:23 -0500</lastBuildDate>
+    <pubDate>Mon, 4 May 2015 16:08:42 -0500</pubDate>
+    <lastBuildDate>Mon, 4 May 2015 16:08:42 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>New Features in Grails 3.0</title>
+      <link>http://dfw2gug.org/blog/2015/june-2015.html</link>
+      <pubDate>Mon, 4 May 2015 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2015/june-2015.html</guid>
+      <description>
+      &lt;!-- date is: when file shows up online (aka. published date) still need to publish via jbake
+--&gt;
+&lt;!-- meetingDate is: actual date of the event. no significane to jbake. just html content
+--&gt;&lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;This presentation will discuss the newly-released &lt;a href=&quot;http://grails.github.io/grails-doc/3.0.x/guide/introduction.html&quot;&gt;version 3 of the Grails framework&lt;/a&gt;. For those new to the framework, all the basics will be included, like domain classes, controllers, and services. For experienced developers, the new Gradle-based build system will be examined, as well as application profiles. Also included will be demonstrations of RESTful web services and testing, including the new functional testing capabilities.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;
+&lt;!-- [Andrew Rubalcaba](https://twitter.com/Han_Cholo) is the Owner and Operator of La Nube Consulting. He currently works in the DFW area providing clients with IT solutions for large Enterprise Systems. He has spent the last couple of years developing Spring/JEE solutions for various clients. He is currently having fun learning and developing solutions in Scala. When Andrew is not programming he enjoys traveling with his wife Sonia and spending time with their dog Bootsy, crossfit, drinking craft beer, and going to concerts.
+--&gt;&lt;p&gt;&lt;a href=&quot;https://kousenit.wordpress.com/&quot;&gt;Ken Kousen&lt;/a&gt; is the President of Kousen IT, Inc., through which he does technical training, mentoring, and consulting in all areas related to Java, specializing in Android, Spring, Hibernate/JPA, Groovy, and Grails. He is the author of the Manning book “Making Java Groovy” and the upcoming O&apos;Reilly book “Gradle for Android”. He is also the author of the O&apos;Reilly video courses &quot;Groovy Fundamentals&quot;, &quot;Practical Groovy&quot;, and &quot;Mastering Groovy&quot;. In 2013 he won a JavaOne Rock Star award.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Microservices with Groovy and Spring Boot</title>
