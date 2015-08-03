@@ -6,17 +6,27 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 30 Jun 2015 12:49:34 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2015 12:49:34 -0500</lastBuildDate>
+    <pubDate>Mon, 3 Aug 2015 11:32:30 -0500</pubDate>
+    <lastBuildDate>Mon, 3 Aug 2015 11:32:30 -0500</lastBuildDate>
 
     
     <item>
       <title>Bake Your Blog with JBake and GitHub</title>
+      <link>http://dfw2gug.org/blog/2015/september-2015.html</link>
+      <pubDate>Sat, 1 Aug 2015 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2015/september-2015.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Ever wanted to have a blog of your very own, but didn&apos;t want to deal with hosting providers or someone else owning your content data? GitHub-Pages provide a great way to serve up your blog content for free and JBake gives you the tools you need to make content management painless. This talk will show you how it&apos;s done, which is also how it was done for the DFW Groovy &amp;amp; Grails User Group web site.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at Research Now in Plano, TX. He has been a Java developer and Web Developer for more than 15 years and a Groovy developer for five years. In his fee time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking, when the trails aren’t under water.&lt;/p&gt;
+	  </description>
+    </item>
+    
+    <item>
+      <title>No Meeting</title>
       <link>http://dfw2gug.org/blog/2015/august-2015.html</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2015/august-2015.html</guid>
       <description>
-      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Ever wanted to have a blog of your very own, but didn&apos;t want to deal with hosting providers or someone else owning your content data? GitHub-Pages provide a great way to serve up your blog content for free and JBake gives you the tools you need to make content management painless. This talk will show you how it&apos;s done, which is also how it was done for the DFW Groovy &amp;amp; Grails User Group web site.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at Research Now in Plano, TX. He has been a Java developer and Web Developer for more than 15 years and a Groovy developer for five years. In his fee time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking, when the trails aren’t under water.&lt;/p&gt;
+      &lt;p&gt;No meeting this month. Go out an enjoy the warm summer nights.&lt;/p&gt;
 	  </description>
     </item>
     
