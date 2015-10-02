@@ -6,17 +6,17 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Fri, 2 Oct 2015 11:38:42 -0500</pubDate>
-    <lastBuildDate>Fri, 2 Oct 2015 11:38:42 -0500</lastBuildDate>
+    <pubDate>Fri, 2 Oct 2015 16:00:52 -0500</pubDate>
+    <lastBuildDate>Fri, 2 Oct 2015 16:00:52 -0500</lastBuildDate>
 
     
     <item>
       <title>Spring One / 2GX Recap... and Planning Future Topics</title>
       <link>http://dfw2gug.org/blog/2015/october-2015.html</link>
-      <pubDate>Wed, 30 Sep 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 1 Oct 2015 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2015/october-2015.html</guid>
       <description>
-      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Ever wanted to have a blog of your very own, but didn&apos;t want to deal with hosting providers or someone else owning your content data? GitHub-Pages provide a great way to serve up your blog content for free and JBake gives you the tools you need to make content management painless. This talk will show you how it&apos;s done, which is also how it was done for the DFW Groovy &amp;amp; Grails User Group web site.&lt;/p&gt;&lt;h2&gt;Materials&lt;/h2&gt;&lt;p&gt;The slides from the presentation are available for &lt;a href=&quot;/downloads/JBake_Presentation.pdf&quot;&gt;download&lt;/a&gt;.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at Research Now in Plano, TX. He has been a Java developer and Web Developer for more than 15 years and a Groovy developer for five years. In his fee time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking, when the trails aren’t under water.&lt;/p&gt;
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We will have a panel that attended SpringOne2GX cover the highlights of the conference and discuss topics for future meetings&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Erik Weibust is a Sr Director at Research Now in Plano, TX. He has been working with Java and the JVM since 1999. Erik moved from Java EE to Spring and now appreciates the ease of working with Groovy and Grails. He leads both the local Java jug, JavaMUG, as well as our Groovy / Grails jug, DFW2GUG. You can learn more about him by following his rants, schenigans and travels on twitter at &lt;a href=&quot;https://twitter.com/erikweibust&quot;&gt;@erikweibust&lt;/a&gt;. Or, for his professional background, you can review &lt;a href=&quot;https://www.linkedin.com/in/erikweibust&quot;&gt;Erik&apos;s LinkedIn profile&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;George Smith&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Dave Shuck&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Steve Good&lt;/a&gt;&lt;/p&gt;
 	  </description>
     </item>
     
