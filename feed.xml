@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 7 Oct 2015 09:22:36 -0500</pubDate>
-    <lastBuildDate>Wed, 7 Oct 2015 09:22:36 -0500</lastBuildDate>
+    <pubDate>Tue, 3 Nov 2015 14:48:29 -0600</pubDate>
+    <lastBuildDate>Tue, 3 Nov 2015 14:48:29 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>Using Spring Cloud / Netflix OSS</title>
+      <link>http://dfw2gug.org/blog/2015/november-2015.html</link>
+      <pubDate>Tue, 3 Nov 2015 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2015/november-2015.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;This presentation will focus on using the Spring Cloud / Netflix OSS to improve George&apos;s &lt;a href=&quot;http://dfw2gug.org/blog/2015/january-2015.html&quot;&gt;highly acclaimed January 2015 presentation&lt;/a&gt;. George will show how Spring Cloud and the Netflix OSS extensions are used to significantly reduce the amount of code required, to achieve more features than before. A demonstration and coding samples using Hystrix, Turbine, Ribbon, Eureka, Actuator, and Remote Configuration will be presented. These technologies can form the basis for highly resilient, fault tolerant systems, that are also highly configurable.&lt;/p&gt;&lt;p&gt;Though all of the services will be run locally on a laptop, George will demonstrate how they can be scaled individually and load tested using the Groovy Console. He will also demonstrate the use of the Netflix Turbine dashboard for monitoring all of the different services&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/george-smith&quot;&gt;George Smith&lt;/a&gt; has been a software developer and architect for more years than he would like to count. For the past 5 years he has worked as a developer and architect for BNSF Railway. He introduced Groovy to BNSF, through the use of Spock Testing, and Gradle for building systems. Many DevOps concepts such as Continuous Integration, Binary Repositories (Artifactory), Immutable Infrastructure, and Continuous Deployment came next. Recently he introduced BNSF Railway to Grails. He has been concentrating on using a distributed micro-service architecture for his recent work.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Spring One / 2GX Recap... and Planning Future Topics</title>
