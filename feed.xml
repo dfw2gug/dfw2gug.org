@@ -6,9 +6,29 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 3 Nov 2015 14:48:29 -0600</pubDate>
-    <lastBuildDate>Tue, 3 Nov 2015 14:48:29 -0600</lastBuildDate>
+    <pubDate>Tue, 1 Dec 2015 17:26:35 -0600</pubDate>
+    <lastBuildDate>Tue, 1 Dec 2015 17:26:35 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>Introduction to Lattice CF</title>
+      <link>http://dfw2gug.org/blog/2015/december-2015.html</link>
+      <pubDate>Wed, 2 Dec 2015 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2015/december-2015.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;A focal point of the 2015 Spring One 2GX Conference was centered on the cloud, and specifically Cloud Foundry. One barrier to introduction for small teams is that Cloud Foundry has been a bit of an all or nothing proposition until now. The goal of Lattice is to be convenient and accessible to developer-produced infrastructure components that are small enough to be deployed on a laptop, but capable of scaling to manage resilient cloud native applications on any infrastructure. Join Dave Shuck as we walk through the basics of Lattice.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Dave Shuck is a Consulting Systems Developer at BNSF Railway. He has been a been a software developer for 16 years, primarily around the web ecosystem. Since joining BNSF in 2014, his focus has centered on Groovy and Spring Boot development. Outside of technology, Dave&apos;s time is spent in outdoor sports, and in service as Mayor of Providence Village, TX&lt;/p&gt;
+	  </description>
+    </item>
+    
+    <item>
+      <title>Exploring the Spring Boot Remote Shell</title>
+      <link>http://dfw2gug.org/blog/2016/march-2016.html</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2016/march-2016.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Do you ever find yourself wanting simple shell access to your running application? Sure, Grails has the Groovy Shell, but you haven&apos;t seen anything yet. The &lt;a href=&quot;http://www.crashub.org/&quot;&gt;CRaSH&lt;/a&gt; shell embedded in Spring Boot provides a rich embedded shell environment in your application with all the features you need. This talk will cover how to setup the shell and how to write your own shell commands so you can increase the visibility and control over your application.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at Research Now in Plano, TX. He has been a Java developer and Web Developer for more than 15 years and a Groovy developer for five years. In his fee time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking, when the trails aren’t under water.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Using Spring Cloud / Netflix OSS</title>
