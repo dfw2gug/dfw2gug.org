@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Thu, 3 Dec 2015 07:24:40 -0600</pubDate>
-    <lastBuildDate>Thu, 3 Dec 2015 07:24:40 -0600</lastBuildDate>
+    <pubDate>Wed, 6 Jan 2016 07:34:16 -0600</pubDate>
+    <lastBuildDate>Wed, 6 Jan 2016 07:34:16 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>No Meeting this Month</title>
+      <link>http://dfw2gug.org/blog/2016/january-2016.html</link>
+      <pubDate>Mon, 4 Jan 2016 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2016/january-2016.html</guid>
+      <description>
+      &lt;p&gt;Happy New Year! No meeting this month, but we have Steve Goode talking about Ratpack in February and Chris Stehno talking about the Spring Boot Remote Shell in March.&lt;/p&gt;&lt;p&gt;We need topics and presenters. If you want a topic covered or want to be a presenter please let us know so we can get something on the schedule for this year.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Introduction to Lattice CF</title>
