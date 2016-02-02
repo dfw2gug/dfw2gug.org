@@ -6,8 +6,8 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 6 Jan 2016 07:34:16 -0600</pubDate>
-    <lastBuildDate>Wed, 6 Jan 2016 07:34:16 -0600</lastBuildDate>
+    <pubDate>Mon, 1 Feb 2016 18:29:44 -0600</pubDate>
+    <lastBuildDate>Mon, 1 Feb 2016 18:29:44 -0600</lastBuildDate>
 
     
     <item>
@@ -27,6 +27,16 @@
       <guid isPermaLink="false">blog/2015/december-2015.html</guid>
       <description>
       &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;A focal point of the 2015 Spring One 2GX Conference was centered on the cloud, and specifically Cloud Foundry. One barrier to introduction for small teams is that Cloud Foundry has been a bit of an all or nothing proposition until now. The goal of Lattice is to be convenient and accessible to developer-produced infrastructure components that are small enough to be deployed on a laptop, but capable of scaling to manage resilient cloud native applications on any infrastructure. Join Dave Shuck as we walk through the basics of Lattice.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Dave Shuck is a Consulting Systems Developer at BNSF Railway. He has been a been a software developer for 16 years, primarily around the web ecosystem. Since joining BNSF in 2014, his focus has centered on Groovy and Spring Boot development. Outside of technology, Dave&apos;s time is spent in outdoor sports, and in service as Mayor of Providence Village, TX&lt;/p&gt;
+	  </description>
+    </item>
+    
+    <item>
+      <title>Ratpapck, what is it and why do you care?</title>
+      <link>http://dfw2gug.org/blog/2016/february-2016.html</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2016/february-2016.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Ratpack, what is it and why do you care?&lt;/p&gt;&lt;p&gt;During this talk, Steve will be covering what makes Ratpack different from other application frameworks, how to consume and generate streams of data through the framework and general non-blocking I/O principals (within the context of the framework).&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;Steve is a solutions architect at BNSF Railway focused primarily on a multi-tier customer facing application written in Grails and Spring Boot. He spends most of his spare time experimenting with new languages and technologies.&lt;/p&gt;
 	  </description>
     </item>
     
