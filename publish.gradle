@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'org.ajoberstar.github-pages'                      
 
 githubPages {
-  repoUri = 'git@github.com:cjstehno/dfw2gug.org.git'
+  repoUri = 'git@github.com:dfw2gug/dfw2gug.org.git'
   pages {
      from(file('build/jbake')) {
      	into '.'                                    
