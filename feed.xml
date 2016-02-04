@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 2 Feb 2016 14:20:50 -0600</pubDate>
-    <lastBuildDate>Tue, 2 Feb 2016 14:20:50 -0600</lastBuildDate>
+    <pubDate>Wed, 3 Feb 2016 19:09:19 -0600</pubDate>
+    <lastBuildDate>Wed, 3 Feb 2016 19:09:19 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>Intro to Spring Security</title>
+      <link>http://dfw2gug.org/blog/2016/april-2016.html</link>
+      <pubDate>Wed, 3 Feb 2016 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2016/april-2016.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;More details coming soon.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/mr_paul_woods&quot;&gt;Paul Woods&lt;/a&gt; is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>No Meeting this Month</title>
