@@ -12,9 +12,9 @@
             the DFW area.</p>
 
             <p>Meetings are on the 1<sup>st</sup> Wednesday of every month (social &amp; food at 6:30pm, meeting content at 7:00pm) at the
-                <a href="https://www.google.com/maps/place/Improving+Enterprises,+Inc./@32.977034,-96.826953,17z/data=!3m1!4b1!4m2!3m1!1s0x864c214428760391:0x93e3cd120aeda77a"
+                <a href="https://www.google.com/maps/place/Improving/@32.977034,-96.826953,17z/data=!3m1!4b1!4m2!3m1!1s0x864c214428760391:0x93e3cd120aeda77a"
                    target="_blank" data-toggle="tooltip" data-placement="top"
-                   title="16633 Dallas Parkway #100 Addison, TX 75001">Improving Enterprises</a>
+                   title="16633 Dallas Parkway #100 Addison, TX 75001">Improving </a>
                 office on the Dallas North Tollway.</p>
         </div>
     </div>
