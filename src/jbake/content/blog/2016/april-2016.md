@@ -10,7 +10,13 @@ status=published
 
 ## Abstract 
 
-More details coming soon.
+We're going to learn the basics of installing [Spring Security](http://projects.spring.io/spring-security/). We will:
+1. Start with an unsecured Spring Boot/JPA application
+2. Install Spring Security jars
+3. Create User and Authority domains/tables
+4. Discuss Authentication and Principal objects
+5. Add a HTML-based login form
+6. Encrypt the user's password
 
 ## Bio
 
