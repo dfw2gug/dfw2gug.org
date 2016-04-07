@@ -6,8 +6,8 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Mon, 4 Apr 2016 17:00:35 -0500</pubDate>
-    <lastBuildDate>Mon, 4 Apr 2016 17:00:35 -0500</lastBuildDate>
+    <pubDate>Thu, 7 Apr 2016 11:40:42 -0500</pubDate>
+    <lastBuildDate>Thu, 7 Apr 2016 11:40:42 -0500</lastBuildDate>
 
     
     <item>
@@ -16,7 +16,7 @@
       <pubDate>Wed, 3 Feb 2016 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2016/april-2016.html</guid>
       <description>
-      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We&apos;re going to learn the basics of installing &lt;a href=&quot;http://projects.spring.io/spring-security/&quot;&gt;Spring Security&lt;/a&gt;. We will:&lt;br/&gt;1. Start with an unsecured Spring Boot/JPA application&lt;br/&gt;2. Install Spring Security jars&lt;br/&gt;3. Create User and Authority domains/tables&lt;br/&gt;4. Discuss Authentication and Principal objects&lt;br/&gt;5. Add a HTML-based login form&lt;br/&gt;6. Encrypt the user&apos;s password&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/mr_paul_woods&quot;&gt;Paul Woods&lt;/a&gt; is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.&lt;/p&gt;
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We&apos;re going to learn the basics of installing &lt;a href=&quot;http://projects.spring.io/spring-security/&quot;&gt;Spring Security&lt;/a&gt;. We will:&lt;br/&gt;1. Start with an unsecured Spring Boot/JPA application&lt;br/&gt;2. Install Spring Security jars&lt;br/&gt;3. Create User and Authority domains/tables&lt;br/&gt;4. Discuss Authentication and Principal objects&lt;br/&gt;5. Add a HTML-based login form&lt;br/&gt;6. Encrypt the user&apos;s password&lt;/p&gt;&lt;p&gt;Slides from Paul&apos;s talk can be &lt;a href=&quot;http://paulwoods.github.io/employeedb/#/&quot;&gt;found here&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/mr_paul_woods&quot;&gt;Paul Woods&lt;/a&gt; is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.&lt;/p&gt;
 	  </description>
     </item>
     
