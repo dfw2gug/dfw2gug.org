@@ -1,2 +1,5 @@
 /build
 .gradle
+
+# ignore Idea IntelliJ files
+.idea/
