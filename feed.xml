@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 31 May 2016 20:07:22 -0500</pubDate>
-    <lastBuildDate>Tue, 31 May 2016 20:07:22 -0500</lastBuildDate>
+    <pubDate>Tue, 5 Jul 2016 15:04:08 -0500</pubDate>
+    <lastBuildDate>Tue, 5 Jul 2016 15:04:08 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Modern Groovy DSLs</title>
+      <link>http://dfw2gug.org/blog/2016/july-2016.html</link>
+      <pubDate>Tue, 5 Jul 2016 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2016/july-2016.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Making DSL&apos;s in groovy has changed a lot since Groovy 1.0. Back then it was all about what you could do dynamically: implementing propertyMissing and methodMissing, adding operator overloading, using named parameters, and leaving off semi-colons. All of those are still valid groovy, but Groovy has added a lot of features to make DSL&apos;s safer, faster, and easier to use. These are features like the @DelegatesTo annotation, script base classes, type checking extensions, extension modules, and the old standby, closure delegation.&lt;/p&gt;&lt;p&gt;We&apos;ll also talk about what makes a good DSL and when you want to implement one.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark is a software engineer working for ResearchNow. His current responsibilities are 1) developing tools for improving database deployment speed and accuracy and 2) Improving and simplifying data access in ResearchNow applications. Both make heavy use of Groovy. In the past he worked in Telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Multi-tenancy with Grails</title>
