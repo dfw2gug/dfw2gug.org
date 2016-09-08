@@ -6,8 +6,8 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 6 Sep 2016 15:41:56 -0500</pubDate>
-    <lastBuildDate>Tue, 6 Sep 2016 15:41:56 -0500</lastBuildDate>
+    <pubDate>Thu, 8 Sep 2016 13:22:11 -0500</pubDate>
+    <lastBuildDate>Thu, 8 Sep 2016 13:22:11 -0500</lastBuildDate>
 
     
     <item>
@@ -16,7 +16,7 @@
       <pubDate>Tue, 6 Sep 2016 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2016/september-2016.html</guid>
       <description>
-      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Groovy performance has come a long way from version 1.0. Back then Groovy was all about being dynamic and easy to use. It&apos;s still that, but it has also become a versatile for developing high performance applications. This talk will focus on making Groovy go fast using techniques such as static compilation, memoizing, lazy loading, and code injection. But, we&apos;ll also look at application designs that keep your application feeling Groovy.&lt;/p&gt;&lt;p&gt;One of the great strengths of Groovy is you usually can have the best of both worlds: pure Java level performance along with Groovy dynamic goodness.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark has been developing software since 1999. First on the Microsoft stack until 2003, then he transitioned to Java technologies (also in 2003), and became an avid Groovy user with version 1.0 in 2007. In the past he has worked in the telecommunications and financial/banking industries. He is currently employed as a principal engineer at &lt;a href=&quot;https://www.researchnow.com/&quot;&gt;Research Now&lt;/a&gt;. At Research Now he develops high performance libraries, frameworks, applications, and DSL&apos;s for managing and analyzing Research Now&apos;s core data assets.&lt;/p&gt;&lt;p&gt;He resides in the Dallas, Texas area with his wife and three kids. When not working he enjoys eating too much, running, and reading (mostly history and philosophy).&lt;/p&gt;
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Groovy performance has come a long way from version 1.0. Back then Groovy was all about being dynamic and easy to use. It&apos;s still that, but it has also become a versatile for developing high performance applications. This talk will focus on making Groovy go fast using techniques such as static compilation, memoizing, lazy loading, and code injection. But, we&apos;ll also look at application designs that keep your application feeling Groovy.&lt;/p&gt;&lt;p&gt;One of the great strengths of Groovy is you usually can have the best of both worlds: pure Java level performance along with Groovy dynamic goodness.&lt;/p&gt;&lt;p&gt;Presentation and code can be found &lt;a href=&quot;https://github.com/dwclark/groovy-performance&quot;&gt;here on Dave&apos;s GitHub&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark has been developing software since 1999. First on the Microsoft stack until 2003, then he transitioned to Java technologies (also in 2003), and became an avid Groovy user with version 1.0 in 2007. In the past he has worked in the telecommunications and financial/banking industries. He is currently employed as a principal engineer at &lt;a href=&quot;https://www.researchnow.com/&quot;&gt;Research Now&lt;/a&gt;. At Research Now he develops high performance libraries, frameworks, applications, and DSL&apos;s for managing and analyzing Research Now&apos;s core data assets.&lt;/p&gt;&lt;p&gt;He resides in the Dallas, Texas area with his wife and three kids. When not working he enjoys eating too much, running, and reading (mostly history and philosophy).&lt;/p&gt;
 	  </description>
     </item>
     
