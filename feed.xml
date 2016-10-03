@@ -6,9 +6,23 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Thu, 8 Sep 2016 13:22:11 -0500</pubDate>
-    <lastBuildDate>Thu, 8 Sep 2016 13:22:11 -0500</lastBuildDate>
+    <pubDate>Mon, 3 Oct 2016 11:28:16 -0500</pubDate>
+    <lastBuildDate>Mon, 3 Oct 2016 11:28:16 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>October</title>
+      <link>http://dfw2gug.org/blog/2016/october-2016.html</link>
+      <pubDate>Mon, 3 Oct 2016 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2016/october-2016.html</guid>
+      <description>
+      &lt;h2&gt;No meeting this month&lt;/h2&gt;&lt;p&gt;Improving has moved from Addison to Plano. They are still settling into the new office so we are taking off this month. We look forward to seeing everyone in November at the new location.&lt;/p&gt;&lt;p&gt;Starting in November meetings will take place at the NEW &lt;a href=&quot;http://www.improving.com&quot;&gt;Improving&lt;/a&gt; office in Plano, TX on Legacy Drive.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;5445 Legacy Drive
+Suite 100
+Plano, TX 75024
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3343.195532778447!2d-96.8115727848103!3d33.07764008088232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c3ccbcd759e8d%3A0x38393b7d4bc2ec99!2s5445+Legacy+Dr+%23100%2C+Plano%2C+TX+75024!5e0!3m2!1sen!2sus!4v1475511234644&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>High Performance Groovy</title>
