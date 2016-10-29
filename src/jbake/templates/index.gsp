@@ -11,11 +11,12 @@
             <p>Focused on expanding the breadth and depth of Groovy and Grails development skills with our members who live and work in
             the DFW area.</p>
 
-            <p>Meetings are on the 1<sup>st</sup> Wednesday of every month (social &amp; food at 6:30pm, meeting content at 7:00pm) at the
-                <a href="https://www.google.com/maps/place/Improving/@32.977034,-96.826953,17z/data=!3m1!4b1!4m2!3m1!1s0x864c214428760391:0x93e3cd120aeda77a"
+            <p>Meetings are on the 1<sup>st</sup> Wednesday of every month (social &amp; food at 6:30pm, meeting content at 7:00pm) at the NEW
+                <a href="https://www.google.com/maps/dir/''/5445+Legacy+Drive,+Plano,+TX+75024/@33.0776401,-96.8115728,17z/data=!3m2!4b1!5s0x864c3cb15d1c5797:0x7edf0a3a8e49ead5!4m8!4m7!1m0!1m5!1m1!1s0x864c3ccbcd759e8d:0xc7b88a116f8a3c53!2m2!1d-96.8093841!2d33.0776401"
                    target="_blank" data-toggle="tooltip" data-placement="top"
-                   title="16633 Dallas Parkway #100 Addison, TX 75001">Improving </a>
-                office on the Dallas North Tollway.</p>
+                   title="Improving Plano">Improving </a>
+                office in Plano, TX on Legacy Drive.</p>
+           <h3>Speaking of the NEW Improving office, we are taking OFF for our October meeting while <a href="http://dfw2gug.org/about.html">Improving gets settled into the new location</a> and is ready to host us again in November.</h3>
         </div>
     </div>
 
@@ -27,8 +28,8 @@
             Addison, TX 75001
         </div>
     </div>
-    
-    <% published_posts.sort { a,b -> 
+
+    <% published_posts.sort { a,b ->
             (a.meetingDate ? Date.parse('yyyy-MM-dd', a.meetingDate) : a.date) <=> (b.meetingDate ? Date.parse('yyyy-MM-dd', b.meetingDate) : b.date)
        }.reverse()[0..9].each { post -> %>
         <a href='${post.uri}'><h3>${post.title}</h3></a>
