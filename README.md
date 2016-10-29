@@ -29,11 +29,10 @@ When you are ready to build the site with any content changes, run:
     
 which will generate the site. You can then either view it in a browser by loading the files, or you can run the simple local server with:
 
-    ./groovy serve.groovy [port]
+    ./gradlew startPreview
     
-and then point your browser to http://localhost[:port] to view the site.
-
-> Note: You can leave the server running in a separate console window and run `gradlew jbake` repeatedly without restarting the server.
+and then point your browser to http://localhost:8080 to view the site. This will run a simple server in the background - you can 
+rebuild the site without restarting the server.
 
 ## Publishing
 
