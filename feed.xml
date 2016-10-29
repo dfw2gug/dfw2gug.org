@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Mon, 3 Oct 2016 11:28:16 -0500</pubDate>
-    <lastBuildDate>Mon, 3 Oct 2016 11:28:16 -0500</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 13:28:35 -0500</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 13:28:35 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>A Gentle Introduction to Gradle</title>
+      <link>http://dfw2gug.org/blog/2016/november-2016.html</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2016/november-2016.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://gradle.org/&quot;&gt;Gradle&lt;/a&gt; is a flexible and powerful build system that you have probably heard of but may have never really used; it can seem a bit unapproachable starting off. We will work through some Groovy-based examples of getting started with Gradle and how to hit the ground running and doing some real work. &lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more than 16 years and a Groovy developer for six years. In his free time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>October</title>
