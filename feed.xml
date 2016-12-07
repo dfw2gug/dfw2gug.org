@@ -6,8 +6,8 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Mon, 5 Dec 2016 06:27:53 -0600</pubDate>
-    <lastBuildDate>Mon, 5 Dec 2016 06:27:53 -0600</lastBuildDate>
+    <pubDate>Tue, 6 Dec 2016 22:39:26 -0600</pubDate>
+    <lastBuildDate>Tue, 6 Dec 2016 22:39:26 -0600</lastBuildDate>
 
     
     <item>
@@ -16,7 +16,7 @@
       <pubDate>Sun, 4 Dec 2016 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2016/december-2016.html</guid>
       <description>
-      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Last month we had an overview of &lt;a href=&quot;http://gradle.org/&quot;&gt;Gradle&lt;/a&gt;. This month we delve deeper in and talk about how and why to develop Gradle plugins by developing a simple one during the meeting. &lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more than 16 years and a Groovy developer for six years. In his free time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.&lt;/p&gt;
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Last month we had an overview of &lt;a href=&quot;http://gradle.org/&quot;&gt;Gradle&lt;/a&gt;. This month we delve deeper in and talk about how and why to develop Gradle plugins by developing a simple one during the meeting. &lt;/p&gt;&lt;p&gt;If you missed last month&apos;s meeting you can read a great blog post from Chris that covers the same &lt;a href=&quot;http://coffeaelectronica.com/blog/2016/gradle-introduction.html&quot;&gt;Intro to Gradle&lt;/a&gt; material he covered in the meeting.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more than 16 years and a Groovy developer for six years. In his free time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.&lt;/p&gt;
 	  </description>
     </item>
     
@@ -26,7 +26,7 @@
       <pubDate>Sat, 29 Oct 2016 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2016/november-2016.html</guid>
       <description>
-      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://gradle.org/&quot;&gt;Gradle&lt;/a&gt; is a flexible and powerful build system that you have probably heard of but may have never really used; it can seem a bit unapproachable starting off. We will work through some Groovy-based examples of getting started with Gradle and how to hit the ground running and doing some real work. &lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more than 16 years and a Groovy developer for six years. In his free time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.&lt;/p&gt;
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://gradle.org/&quot;&gt;Gradle&lt;/a&gt; is a flexible and powerful build system that you have probably heard of but may have never really used; it can seem a bit unapproachable starting off. We will work through some Groovy-based examples of getting started with Gradle and how to hit the ground running and doing some real work. &lt;/p&gt;&lt;p&gt;If you missed the meeting you can read a great blog post from Chris that covers the same &lt;a href=&quot;http://coffeaelectronica.com/blog/2016/gradle-introduction.html&quot;&gt;Intro to Gradle&lt;/a&gt; material he covered in the meeting.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more than 16 years and a Groovy developer for six years. In his free time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.&lt;/p&gt;
 	  </description>
     </item>
     
