@@ -6,8 +6,8 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 6 Dec 2016 22:39:26 -0600</pubDate>
-    <lastBuildDate>Tue, 6 Dec 2016 22:39:26 -0600</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2016 12:13:57 -0600</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2016 12:13:57 -0600</lastBuildDate>
 
     
     <item>
@@ -419,7 +419,7 @@ Plano, TX 75024
     </item>
     
     <item>
-      <title>What's New in Grails 2.3</title>
+      <title>What&apos;s New in Grails 2.3</title>
       <link>http://dfw2gug.org/blog/2013/december-2013.html</link>
       <pubDate>Wed, 4 Dec 2013 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2013/december-2013.html</guid>
@@ -674,7 +674,7 @@ libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Hand's on Groovy Programming</title>
+      <title>Hand&apos;s on Groovy Programming</title>
       <link>http://dfw2gug.org/blog/2012/november-2012.html</link>
       <pubDate>Wed, 7 Nov 2012 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2012/november-2012.html</guid>
@@ -694,7 +694,7 @@ libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Meta-programming with Groovy & Grails</title>
+      <title>Meta-programming with Groovy &amp; Grails</title>
       <link>http://dfw2gug.org/blog/2012/september-2012.html</link>
       <pubDate>Wed, 5 Sep 2012 00:00:00 -0500</pubDate>
       <guid isPermaLink="false">blog/2012/september-2012.html</guid>
