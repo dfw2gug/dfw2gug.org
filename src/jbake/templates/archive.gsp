@@ -1,10 +1,6 @@
 <%include 'header.gsp'%>
 
-	<%include 'menu.gsp'%>
-	
-	<div class="page-header">
-		<h1>Meeting Archive</h1>
-	</div>
+        <h1>Meeting Archives</h1>
 	
 	<!--<ul>-->
 		<%def last_month=null;%>

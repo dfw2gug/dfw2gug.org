@@ -1,6 +1,4 @@
 <%include "header.gsp"%>
-
-	<%include "menu.gsp"%>
 	
 	<div class="page-header">
 		<h1>Tag: ${tag}</h1>
