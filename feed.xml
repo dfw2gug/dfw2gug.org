@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 13 Dec 2016 12:13:57 -0600</pubDate>
-    <lastBuildDate>Tue, 13 Dec 2016 12:13:57 -0600</lastBuildDate>
+    <pubDate>Tue, 3 Jan 2017 18:37:37 -0600</pubDate>
+    <lastBuildDate>Tue, 3 Jan 2017 18:37:37 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>No Meeting this Month</title>
+      <link>http://dfw2gug.org/blog/2017/january-2017.html</link>
+      <pubDate>Wed, 4 Jan 2017 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2017/january-2017.html</guid>
+      <description>
+      &lt;p&gt;Happy New Year! There will be no meeting this month but we will be meeting in February. &lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Gradle Plugins 101</title>
