@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 3 Jan 2017 18:37:37 -0600</pubDate>
-    <lastBuildDate>Tue, 3 Jan 2017 18:37:37 -0600</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2017 21:25:45 -0600</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 21:25:45 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>The What and Whys of HttpBuilder NG and 2017 Meeting Brainstorming</title>
+      <link>http://dfw2gug.org/blog/2017/february-2017.html</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2017/february-2017.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;HttpBuilder NG is the safer and modern successor to the Http Builder project. It is an http client build especially for Groovy users. We’ll briefly cover the following:&lt;br/&gt;- A brief overview of what HttpBuilder NG does&lt;br/&gt;- Basic use cases for HttpBuilder NG&lt;br/&gt;- Integration with IntelliJ&lt;br/&gt;- Scripting with HttpBuilder NG&lt;br/&gt;- Time permitting we can talk about how HttpBuilder NG is implemented&lt;/p&gt;&lt;p&gt;Links:&lt;br/&gt; Main Site: (&lt;a href=&quot;https://http-builder-ng.github.io/http-builder-ng/&quot;&gt;https://http-builder-ng.github.io/http-builder-ng/&lt;/a&gt;)&lt;br/&gt; GitHub: (&lt;a href=&quot;https://github.com/http-builder-ng/http-builder-ng&quot;&gt;https://github.com/http-builder-ng/http-builder-ng&lt;/a&gt;)&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark&lt;br/&gt;David Clark has been developing software since 1999. First on the Microsoft stack until 2003, then he transitioned to Java technologies (also in 2003), and became an avid Groovy user with version 1.0 in 2007. In the past he has worked in the telecommunications and financial/banking industries. He is currently employed as a principal engineer at &lt;a href=&quot;https://www.researchnow.com/&quot;&gt;Research Now&lt;/a&gt;. At Research Now he develops high performance libraries, frameworks, applications, and DSL&apos;s for managing and analyzing Research Now&apos;s core data assets.&lt;/p&gt;&lt;p&gt;He resides in the Dallas, Texas area with his wife and three kids. When not working he enjoys eating too much, running, and reading (mostly history and philosophy).&lt;/p&gt;&lt;p&gt;Chris Stehno&lt;br/&gt;&lt;a href=&quot;http://stehno.com&quot;&gt;Christopher J. Stehno&lt;/a&gt; is a Sr Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more than 16 years and a Groovy developer for six years. In his free time he enjoys hacking on his personal projects, exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>No Meeting this Month</title>
