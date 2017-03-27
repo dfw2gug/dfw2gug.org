@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 22 Feb 2017 07:27:08 -0600</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2017 07:27:08 -0600</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2017 16:58:01 -0500</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2017 16:58:01 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Moving Your Company to Groovy (or any new technology really)</title>
+      <link>http://dfw2gug.org/blog/2017/april-2017.html</link>
+      <pubDate>Sun, 26 Mar 2017 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2017/april-2017.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;Over the past 10 years I have been moving companies towards Groovy. Sometimes this was the first time the company had used Groovy, at others it was a re-introduction after a bad experience with Groovy. We&apos;ll talk about the projects where I was able to use Groovy, how I sold Groovy, and what happened to those projects. Then we&apos;ll talk about what I learned and give some tips on selling your boss on Groovy (or any new JVM technology). I&apos;m also hoping to hear your stories, both successes and failures, in how you have introduced new technologies (especially Groovy!) to the companies you work for.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;David Clark has been developing software since 1999. First on the Microsoft stack until 2003, then he transitioned to Java technologies (also in 2003), and became an avid Groovy user with version 1.0 in 2007. In the past he has worked in the telecommunications and financial/banking industries. He is currently employed as a principal engineer at Research Now. At Research Now he develops high performance libraries, frameworks, applications, and DSL&apos;s for managing and analyzing Research Now&apos;s core data assets. He resides in the Dallas, Texas area with his wife and three kids. When not working he enjoys eating too much, running, and reading (mostly history and philosophy).&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Ersatz Mock Server and 2017 Meeting Brainstorming</title>
