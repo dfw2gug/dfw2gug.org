@@ -6,9 +6,23 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Mon, 27 Mar 2017 16:58:01 -0500</pubDate>
-    <lastBuildDate>Mon, 27 Mar 2017 16:58:01 -0500</lastBuildDate>
+    <pubDate>Tue, 2 May 2017 07:11:21 -0500</pubDate>
+    <lastBuildDate>Tue, 2 May 2017 07:11:21 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Planning</title>
+      <link>http://dfw2gug.org/blog/2017/may-2017.html</link>
+      <pubDate>Wed, 3 May 2017 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2017/may-2017.html</guid>
+      <description>
+      &lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;There will be no presentation this month; however, you are welcome to come and help figure out what presentations will be
+given for our Groovy 101 series (or even sign up to give one) - I am sure there will be plenty of other general
+Groovy-related topics discussed as well.&lt;/p&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Moving Your Company to Groovy (or any new technology really)</title>
