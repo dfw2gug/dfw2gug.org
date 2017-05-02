@@ -1,0 +1,13 @@
+title=Planning
+presenter=None
+abstract=Gathering Groovy 101 topics and assigning presenters.
+date=2017-05-03
+meetingDate=2017-05-03
+type=post
+tags=blog
+status=published
+~~~~~~
+
+There will be no presentation this month; however, you are welcome to come and help figure out what presentations will be
+given for our Groovy 101 series (or even sign up to give one) - I am sure there will be plenty of other general
+Groovy-related topics discussed as well.
