@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Tue, 2 May 2017 07:11:21 -0500</pubDate>
-    <lastBuildDate>Tue, 2 May 2017 07:11:21 -0500</lastBuildDate>
+    <pubDate>Sun, 4 Jun 2017 14:39:10 -0500</pubDate>
+    <lastBuildDate>Sun, 4 Jun 2017 14:39:10 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>What&apos;s so Groovy About Groovy</title>
+      <link>http://dfw2gug.org/blog/2017/june-2017.html</link>
+      <pubDate>Sat, 3 Jun 2017 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2017/june-2017.html</guid>
+      <description>
+      &lt;h2&gt;General Announcement&lt;/h2&gt;&lt;p&gt;Starting with this month&apos;s meeting we will be focusing on introducing new members to &lt;a href=&quot;http://www.groovy-lang.org/&quot;&gt;Groovy&lt;/a&gt;. We will have a series of talks that will bring them up to speed on Groovy, &lt;a href=&quot;https://gradle.org/&quot;&gt;Gradle&lt;/a&gt;, &lt;a href=&quot;https://grails.org/&quot;&gt;Grails&lt;/a&gt; and application development. Please bring your friend, neighbor and co-worker, especially if they are familiar with Java, as the ramp-up is very easy.&lt;/p&gt;&lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;This month Erik will be giving a talk titled, What&apos;s So Groovy About Groovy. It is geared to developers completely new to Groovy. No experience needed. Just come with an open mind and be ready to learn.&lt;/p&gt;&lt;p&gt;We will cover the following:&lt;br/&gt;- Why Groovy&lt;br/&gt;- How to install&lt;br/&gt;- What&apos;s So groovy about Groovy&lt;br/&gt;- OO Programming and writing shell scripts with Groovy&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/erikweibust/&quot;&gt;Erik Weibust&lt;/a&gt; &lt;a href=&quot;https://twitter.com/erikweibust&quot;&gt;@erikweibust&lt;/a&gt; is this month&apos;s speaker. He&apos;s also the founder and co-leader of this group (the &lt;a href=&quot;http://dfw2gug.org/&quot;&gt;DFW2GUG&lt;/a&gt;) as well as the President of the &lt;a href=&quot;http://www.javamug.org/&quot;&gt;JavaMUG meetup&lt;/a&gt;. Erik has been exploring Groovy for years and enjoys promoting the language and being active in it&apos;s community. By day Erik leads a group of engineers at &lt;a href=&quot;https://www.usaajobs.com/&quot;&gt;USAA&lt;/a&gt; that are building a RESTful money movement platform. Outside of work Erik enjoys cheering his 3 kids on in youth sports and getting time out with his wife for dinner, movies and drinks.&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Planning</title>
