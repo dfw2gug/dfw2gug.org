@@ -1,0 +1,13 @@
+title=No Meeting
+presenter=None
+abstract=No meeting scheduled due to Independence Day.
+date=2017-07-01
+meetingDate=2017-07-05
+type=post
+tags=blog
+status=published
+~~~~~~
+
+== No Meeting
+
+There is no meeting in July due to the proximity to the Independence Day holiday. Have a safe 4th of July, and we will see you next month!

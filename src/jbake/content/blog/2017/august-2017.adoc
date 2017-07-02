@@ -1,0 +1,21 @@
+title=From Java to Groovy
+presenter=Christopher J Stehno
+abstract=Turning a Java project into a Groovy project, one class at a time.
+date=2017-07-01
+meetingDate=2017-08-02
+type=post
+tags=blog
+status=published
+~~~~~~
+
+== Abstract
+
+This will be a coding walk-through presentation starting with a simple pure Java project and working through its conversion to a Groovy project with
+explanation at each step along the way. We will even touch lightly on moving from using Maven to Gradle, and from plain JUnit to Spock. This talk is
+intended for Groovy beginners, but there might still be a few interesting bits for more experienced Groovy developers.
+
+== Bio
+
+http://stehno.com[Christopher J. Stehno] is a Principal Engineer at NetScout in Plano, TX. He has been a Java developer and Web Developer for more
+than 17 years and a Groovy developer for about seven years. In his free time he enjoys hacking on open https://github.com/cjstehno[source projects],
+exploring the DFW area with his wife, reading pulpy science fiction novels and hiking.
