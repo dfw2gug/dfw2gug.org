@@ -8,10 +8,10 @@ tags=blog
 status=published
 ~~~~~~
 
-== Abstract
+## Abstract
 
 > TBD...
 
-== Bio
+## Bio
 
 [Paul Woods](https://twitter.com/mr_paul_woods) is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.
