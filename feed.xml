@@ -6,9 +6,19 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Sun, 2 Jul 2017 08:00:08 -0500</pubDate>
-    <lastBuildDate>Sun, 2 Jul 2017 08:00:08 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2017 16:38:20 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2017 16:38:20 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Groovy Spring-Boot Development</title>
+      <link>http://dfw2gug.org/blog/2017/september-2017.html</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2017/september-2017.html</guid>
+      <description>
+      &lt;h2&gt;Abstract&lt;/h2&gt;&lt;p&gt;We will live-code an Instagram clone, using groovy, spring boot, spring data and spring security. Well talk about the advantages that spring boot gives over plain spring, and show the advantages of spring data over other ORMs and raw SQL.&lt;/p&gt;&lt;h2&gt;Bio&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/mr_paul_woods&quot;&gt;Paul Woods&lt;/a&gt; is a software engineer at Texas Instruments in Richardson, TX. He started coding on the Commodore 64 in 1984. He switched to the Microsoft stack in 1995, Java in 2006, Groovy and Grails in 2009, and currently spring boot and groovy.&lt;/p&gt;&lt;p&gt;On the side, he enjoys flying quad copters and 3D printing.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.mrpaulwoods.com/&quot;&gt;http://www.mrpaulwoods.com/&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://github.com/paulwoods&quot;&gt;http://github.com/paulwoods&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;http://twitter.com/mr_paul_woods&quot;&gt;http://twitter.com/mr_paul_woods&lt;/a&gt;&lt;/p&gt;
+	  </description>
+    </item>
     
     <item>
       <title>From Java to Groovy</title>
