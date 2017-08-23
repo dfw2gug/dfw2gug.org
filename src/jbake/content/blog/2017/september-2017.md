@@ -1,8 +1,8 @@
 title=Groovy Spring-Boot Development
 presenter=Paul Woods
-abstract=Groovy development on Spring-Boot
-date=2017-08-23
-meetingDate=2017-06-06
+abstract=We will live-code an Instagram clone, using groovy, and spring boot.
+date=2017-08-22
+meetingDate=2017-09-06
 type=post
 tags=blog
 status=published
@@ -10,8 +10,14 @@ status=published
 
 ## Abstract
 
-> TBD...
+We will live-code an Instagram clone, using groovy, spring boot, spring data and spring security. Well talk about the advantages that spring boot gives over plain spring, and show the advantages of spring data over other ORMs and raw SQL.
 
 ## Bio
 
-[Paul Woods](https://twitter.com/mr_paul_woods) is a Software Engineer for Texas Instruments. He started programming in 1984 on a Commodore 64, but became a electronic technician in the 1990s. He graduated from UTD in 2006 with a degree in software engineering. Paul has experience with C++, C# and Java. He started programming around 2008.
+[Paul Woods](https://twitter.com/mr_paul_woods) is a software engineer at Texas Instruments in Richardson, TX. He started coding on the Commodore 64 in 1984. He switched to the Microsoft stack in 1995, Java in 2006, Groovy and Grails in 2009, and currently spring boot and groovy.
+
+On the side, he enjoys flying quad copters and 3D printing.
+
+http://www.mrpaulwoods.com/
+http://github.com/paulwoods
+http://twitter.com/mr_paul_woods
