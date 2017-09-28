@@ -1,0 +1,26 @@
+title=Modern Groovy DSLs
+presenter=David Clark
+abstract=Making DSL's in groovy has changed a lot since Groovy 1.0... We'll talk about what makes a good DSL and how to implement one.
+date=2017-09-28
+meetingDate=2017-10-04
+type=post
+tags=blog
+status=published
+~~~~~~
+
+== Abstract
+
+Making DSL's in groovy has changed a lot since Groovy 1.0. Back then it was all about what you could do dynamically:
+implementing `propertyMissing` and `methodMissing`, adding operator overloading, using named parameters, and leaving off
+semi-colons. All of those are still valid groovy, but Groovy has added a lot of features to make DSL's safer, faster, and
+easier to use. These are features like the `@DelegatesTo` annotation, script base classes, type checking extensions,
+extension modules, and the old standby, closure delegation.
+
+We'll also talk about what makes a good DSL and when you want to implement one.
+
+https://github.com/dwclark/modern-dsls[Dave's slides and example code]
+
+== Bio
+
+https://github.com/dwclark[David Clark] is a software engineer working for Capital One. In the past he worked in
+telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.
