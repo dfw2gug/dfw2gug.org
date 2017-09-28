@@ -22,5 +22,7 @@ https://github.com/dwclark/modern-dsls[Dave's slides and example code]
 
 == Bio
 
-https://github.com/dwclark[David Clark] is a software engineer working for Capital One. In the past he worked in
-telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.
+https://github.com/dwclark[David Clark] is co-leader of the https://http-builder-ng.github.io/http-builder-ng/[HttpBuilder-NG]
+project, a popular HTTP client for Groovy and other JVM languages. He has been developing software since 1999. First on the
+Microsoft stack until 2003, then transitioning to Java technologies (also in 2003). He became an avid Groovy user with
+version 1.0 in 2007. He currently works as a Master Software Engineer at Capital One.
