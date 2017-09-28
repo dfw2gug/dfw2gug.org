@@ -6,9 +6,45 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 23 Aug 2017 16:38:20 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Aug 2017 16:38:20 -0500</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2017 07:30:14 -0500</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2017 07:30:14 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Modern Groovy DSLs</title>
+      <link>http://dfw2gug.org/blog/2017/october-2017.html</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 -0500</pubDate>
+      <guid isPermaLink="false">blog/2017/october-2017.html</guid>
+      <description>
+      &lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;_abstract&quot;&gt;Abstract&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Making DSL&amp;#8217;s in groovy has changed a lot since Groovy 1.0. Back then it was all about what you could do dynamically:
+implementing &lt;code&gt;propertyMissing&lt;/code&gt; and &lt;code&gt;methodMissing&lt;/code&gt;, adding operator overloading, using named parameters, and leaving off
+semi-colons. All of those are still valid groovy, but Groovy has added a lot of features to make DSL&amp;#8217;s safer, faster, and
+easier to use. These are features like the &lt;code&gt;@DelegatesTo&lt;/code&gt; annotation, script base classes, type checking extensions,
+extension modules, and the old standby, closure delegation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;We&amp;#8217;ll also talk about what makes a good DSL and when you want to implement one.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dwclark/modern-dsls&quot;&gt;Dave&amp;#8217;s slides and example code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;_bio&quot;&gt;Bio&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dwclark&quot;&gt;David Clark&lt;/a&gt; is a software engineer working for Capital One. In the past he worked in
+telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
     
     <item>
       <title>Groovy Spring-Boot Development</title>
