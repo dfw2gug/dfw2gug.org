@@ -6,8 +6,8 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Thu, 28 Sep 2017 07:30:14 -0500</pubDate>
-    <lastBuildDate>Thu, 28 Sep 2017 07:30:14 -0500</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2017 10:53:51 -0500</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2017 10:53:51 -0500</lastBuildDate>
 
     
     <item>
@@ -38,8 +38,10 @@ extension modules, and the old standby, closure delegation.&lt;/p&gt;
 &lt;h2 id=&quot;_bio&quot;&gt;Bio&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/dwclark&quot;&gt;David Clark&lt;/a&gt; is a software engineer working for Capital One. In the past he worked in
-telecommunications and the financial/banking worlds using Java technologies. He has used Groovy since the 1.0 release in 2007.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/dwclark&quot;&gt;David Clark&lt;/a&gt; is co-leader of the &lt;a href=&quot;https://http-builder-ng.github.io/http-builder-ng/&quot;&gt;HttpBuilder-NG&lt;/a&gt;
+project, a popular HTTP client for Groovy and other JVM languages. He has been developing software since 1999. First on the
+Microsoft stack until 2003, then transitioning to Java technologies (also in 2003). He became an avid Groovy user with
+version 1.0 in 2007. He currently works as a Master Software Engineer at Capital One.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
