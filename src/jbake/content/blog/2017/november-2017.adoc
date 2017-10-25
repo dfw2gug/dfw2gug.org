@@ -1,0 +1,23 @@
+title=Grails Development
+presenter=Paul Woods
+abstract=We will live-code an Instagram clone, using Groovy, and Grails.
+date=2017-10-25
+meetingDate=2017-11-01
+type=post
+tags=blog
+status=published
+~~~~~~
+
+== Abstract
+
+We will live-code an Instagram clone, using Groovy, Grails, and spring security. We'll talk about the advantages that Grails provides, and show how to best utilize them.
+
+== Bio
+
+https://twitter.com/mr_paul_woods[Paul Woods] is a software engineer at Texas Instruments in Richardson, TX. He started coding on the Commodore 64 in 1984. He switched to the Microsoft stack in 1995, Java in 2006, Groovy and Grails in 2009, and currently spring boot and groovy.
+
+On the side, he enjoys flying quad copters and 3D printing.
+
+* http://www.mrpaulwoods.com/
+* http://github.com/paulwoods
+* http://twitter.com/mr_paul_woods
