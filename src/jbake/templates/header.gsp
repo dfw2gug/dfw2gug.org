@@ -54,7 +54,6 @@
                 <ul class="nav navbar-nav">
                     <li><a href="/about.html" title="About"><span class="glyphicon glyphicon-info-sign"></span> About</a></li>
                     <li><a href="/archive.html" title="Archives"><span class="glyphicon glyphicon-calendar"></span> Archives</a></li>
-                    <li><a href="https://www.meetup.com/dfw2gug" title="Meetup"><span class="glyphicon glyphicon-bookmark"></span> Meetup</a></li>     
                     <li><a href="${config.feed_file}" title="Feed"><span class="glyphicon glyphicon-list-alt"></span> Subscribe</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->

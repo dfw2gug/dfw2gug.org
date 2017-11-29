@@ -6,9 +6,7 @@ status=published
 
 <div class="row">
     <div class="col-lg-5 col-md-5 col-sm-5">
-<p>The Dallas/Fort Worth Groovy & Grails user group launched on June 2<sup>nd</sup> 2010 and has been meeting ever since. You can learn more about our group from the meetings archive, announcements on our <a href="https://groups.google.com/forum/#!forum/dfw2gug">Google Group</a>, or follow us on twitter <a href="https://twitter.com/dfw2gug">@dfw2gug</a> for the latest info. </p>
-
-<p>We now have a <a href="https://www.meetup.com/dfw2gug">Meetup.com</a> page - please check it out and RSVP for any meetings you are interested in</p>
+<p>The Dallas/Fort Worth Groovy & Grails user group launched on June 2<sup>nd</sup> 2010 and has been meeting ever since. You can learn more about our group from the <a href="archive.html">meetings archive</a> or announcements on our twitter <a href="https://twitter.com/dfw2gug">@dfw2gug</a> feed for the latest info.</p>
 
 <p>The group meets on the 1<sup>st</sup> Wednesday of every month, with social/food at 6:30pm while the meeting content starts at 7:00pm. The meetings take place at the NEW <a href="http://www.improving.com">Improving</a> office in Plano, TX on 5445 Legacy Drive.</p>
 

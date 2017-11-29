@@ -8,11 +8,6 @@
                 <p style="margin-top:8px;">We are a group of users focused on expanding the breadth and depth of <a href="http://groovy-lang.org">Groovy</a> and <a href="http://grails.org">Grails</a> development skills with our members who live and work in the DFW area. Our meetings are on the
                 1<sup>st</sup> Wednesday of every month (social &amp; food at 6:30pm, meeting content at 7:00pm) at the NEW
             <a href="http://improving.com/">Improving</a> office in Plano at <a href="https://www.google.com/maps/dir/''/5445+Legacy+Drive,+Plano,+TX+75024/@33.0776401,-96.8115728,17z/data=!3m2!4b1!5s0x864c3cb15d1c5797:0x7edf0a3a8e49ead5!4m8!4m7!1m0!1m5!1m1!1s0x864c3ccbcd759e8d:0xc7b88a116f8a3c53!2m2!1d-96.8093841!2d33.0776401" target="_blank">5445 Legacy Drive, Plano, TX 75024</a>.</p>
-
-
-            <h2>General Announcement</h2>
-
-            <p>Starting with the <a href="http://dfw2gug.org/blog/2017/june-2017.html">June 2017 meeting</a> we will be focusing on introducing new members to <a href="http://www.groovy-lang.org/">Groovy</a>. We will have  a series of talks that will bring them up to speed on Groovy, <a href="https://gradle.org/">Gradle</a>, <a href="https://grails.org/)">Grails</a> and application development. Please bring your friend, neighbor and co-worker, especially if they are familiar with Java, as the ramp-up is very easy.</p>
             </div>
         </div>
     </div>

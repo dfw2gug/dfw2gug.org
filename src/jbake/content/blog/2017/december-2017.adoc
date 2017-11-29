@@ -1,0 +1,19 @@
+title=No Meeting
+presenter=n/a
+abstract=No meeting this month.
+date=2017-11-28
+meetingDate=2017-12-06
+type=post
+tags=blog
+status=published
+~~~~~~
+
+We ran out of speakers so there is no meeting this month.
+
+Also, our Meetup.com account is expiring in a few days and will most likely be shutdown - $10/month is $10/month more than
+out meeting buget allows, especially when it's not really brining in new members. An email will go out to the membership group
+if/when it is cancelled.
+
+The group meetings will still continue with this web site, as they always have.
+
+Happy Holidays!
