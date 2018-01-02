@@ -6,9 +6,24 @@
     <atom:link href="http://dfw2gug.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Dallas/Fort Worth Groovy and Grails User Group</description>
     <language>en-gb</language>
-    <pubDate>Wed, 29 Nov 2017 06:49:51 -0600</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2017 06:49:51 -0600</lastBuildDate>
+    <pubDate>Tue, 2 Jan 2018 07:38:38 -0600</pubDate>
+    <lastBuildDate>Tue, 2 Jan 2018 07:38:38 -0600</lastBuildDate>
 
+    
+    <item>
+      <title>Discussion and Planning</title>
+      <link>http://dfw2gug.org/blog/2018/january-2018.html</link>
+      <pubDate>Tue, 2 Jan 2018 00:00:00 -0600</pubDate>
+      <guid isPermaLink="false">blog/2018/january-2018.html</guid>
+      <description>
+      &lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Happy New Year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;We don&amp;#8217;t have a speaker this month, but there will be general Groovy discussion as well as planning as many presentations as we can for the year ahead.&lt;/p&gt;
+&lt;/div&gt;
+	  </description>
+    </item>
     
     <item>
       <title>No Meeting</title>
