@@ -1,0 +1,13 @@
+title=Discussion and Planning
+presenter=n/a
+abstract=General discussion and future planning.
+date=2018-01-02
+meetingDate=2018-01-03
+type=post
+tags=blog
+status=published
+~~~~~~
+
+Happy New Year!
+
+We don't have a speaker this month, but there will be general Groovy discussion as well as planning as many presentations as we can for the year ahead.
