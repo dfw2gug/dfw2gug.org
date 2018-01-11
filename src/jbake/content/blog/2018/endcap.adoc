@@ -1,0 +1,13 @@
+title=Disbanding the Group
+presenter=n/a
+abstract=An endcap.
+date=2018-01-03
+meetingDate=2018-01-04
+type=post
+tags=blog
+status=published
+~~~~~~
+
+At our January meeting, we decided to disband the group due to lack of interest and attendance. It has been great being able to interact with our members and speakers over the years, but membership has dwindled and we've just run out of speakers, so we are closing things down.
+
+Go forth and make things Groovy!
