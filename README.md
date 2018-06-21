@@ -1,6 +1,6 @@
 # DFW Groovy & Grails User Group
 
-Site: http://dfw2gug.org
+> The group disbanded - there is no longer an active site.
 
 ## Development
 
